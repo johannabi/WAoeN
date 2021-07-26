@@ -1,0 +1,1801 @@
+Begriff,Quelle,Assoziations-Score
+abdämmen,GermaNet,2.333333333333333
+Abdichtung,Word2Vec,1.0
+Abfall,UBA Wortliste,1.0
+Abfallbeseitigung,GermaNet,2.0
+Abfalldeponie,GermaNet,1.333333333333333
+Abfalldeponierung,UBA Wortliste,1.333333333333333
+Abfälle,UBA Wortliste,1.0
+Abfallentsorgung,GermaNet,2.0
+Abfallerzeugnis,GermaNet,1.0
+Abfallgesetz,GermaNet,3.0
+Abfallhalde,GermaNet,1.333333333333333
+Abfallprodukt,GermaNet,1.0
+Abfallsack,GermaNet,1.333333333333333
+Abfallsammlung,UBA Wortliste,1.333333333333333
+Abfallstoff,GermaNet,1.0
+Abfalltrennung,UBA Wortliste,2.0
+Abfallvermeidung,GermaNet,4.0
+Abgasableitung,UBA Wortliste,1.0
+Abgasemissionen,Word2Vec,3.666666666666667
+Abgasentgiftungsanlage,UBA Wortliste,2.0
+Abgasnachbehandlung,UBA Wortliste,2.0
+Abgasnorm,manuell ergänzt,3.666666666666667
+Abgasreinigung,UBA Wortliste,2.0
+Abgasrückführung,Word2Vec,2.0
+Abgasschlauch,UBA Wortliste,1.0
+Abgasschläuche,UBA Wortliste,1.0
+Abgassystem,Word2Vec,2.0
+Abgasverbrennung,UBA Wortliste,1.0
+Abgasverstromung,UBA Wortliste,3.333333333333333
+Abgaswärmetauscher,UBA Wortliste,2.333333333333333
+Abluft,Word2Vec,1.333333333333333
+Abluftreinigung,UBA Wortliste,2.0
+Abluftsystem,UBA Wortliste,1.0
+Abluftverbrennung,UBA Wortliste,2.333333333333333
+Absaughaube,UBA Wortliste,1.333333333333333
+Abwärme,UBA Wortliste,3.333333333333333
+Abwärmenutzung,UBA Wortliste,4.0
+Abwasser,UBA Wortliste,1.333333333333333
+Abwässer,Word2Vec,1.333333333333333
+Abwasseraufbereitung,GermaNet,2.333333333333333
+Abwasserbehandlung,UBA Wortliste,2.0
+Abwasserbehandlungsanlage,GermaNet,2.0
+Abwasserbeseitigung,GermaNet,1.0
+Abwasserentsorgung,GermaNet,1.333333333333333
+Abwasserfilterung,UBA Wortliste,2.0
+Abwassergebühr,GermaNet,2.0
+Abwasserneutralisierung,UBA Wortliste,1.666666666666667
+Abwasserreinigung,Word2Vec,1.666666666666667
+Abwasserreinigungsanlage,GermaNet,2.0
+Abwassersammlung,UBA Wortliste,1.333333333333333
+Abwassersystem,Word2Vec,1.0
+Abwassertransport,UBA Wortliste,1.333333333333333
+Ackerbau,GermaNet,1.0
+Ackerrandstreifen,Word2Vec,3.666666666666667
+adaptive Verbundwerkstoffe,manuell ergänzt,2.333333333333333
+adaptive Werkstoffe,UBA Wortliste,2.333333333333333
+Aerodynamik,UBA Wortliste,1.333333333333333
+aerodynamisch,Word2Vec,1.333333333333333
+Aerosolanlagen,UBA Wortliste,2.0
+Aerosol-Löschanlage,manuell ergänzt,2.0
+Agrar-,Word2Vec,1.0
+Agrarerzeugnis,GermaNet,1.0
+Agrarkultur,GermaNet,1.0
+Agrarökosystem,UBA Wortliste,4.0
+Agrarpolitik,Word2Vec,1.666666666666667
+Agrarprodukt,GermaNet,1.0
+Agrarreform,GermaNet,2.666666666666667
+Agrartechnik,UBA Wortliste,1.666666666666667
+Agrarwirtschaft,UBA Wortliste,1.0
+Agrikultur,GermaNet,1.0
+Aktivkohlefilter,UBA Wortliste,1.333333333333333
+Alleebäume,Word2Vec,2.666666666666667
+Alpenpflanze,GermaNet,1.666666666666667
+Altautoverwertung,UBA Wortliste,2.333333333333333
+Altbausanierung,UBA Wortliste,2.333333333333333
+Altdeponie,GermaNet,1.333333333333333
+Alteisen,GermaNet,1.0
+alternative Antriebe,Word2Vec,3.666666666666667
+alternative Energie,UBA Wortliste,4.0
+alternative Kraftstoffe,UBA Wortliste,3.333333333333333
+Altfahrzeug,UBA Wortliste,1.333333333333333
+Altglas,UBA Wortliste,1.333333333333333
+Altholz,UBA Wortliste,1.333333333333333
+Altkleider,Word2Vec,2.333333333333333
+Altkunststoff,GermaNet,2.0
+Altlast,GermaNet,1.0
+Altlastenanalytik,UBA Wortliste,3.0
+Altlastenbewertung,UBA Wortliste,3.0
+Altlastenerfassung,UBA Wortliste,3.0
+Altlastenerkundung,UBA Wortliste,3.0
+Altlastensanierung,UBA Wortliste,2.666666666666667
+Altlastensicherung,UBA Wortliste,3.0
+Altlastenuntersuchung,UBA Wortliste,2.666666666666667
+Altmaterial,UBA Wortliste,1.666666666666667
+Altmetall,GermaNet,1.0
+Altölaufbereitung,UBA Wortliste,2.666666666666667
+Altpapier,UBA Wortliste,1.0
+Altreifen,UBA Wortliste,1.0
+Altstoff,GermaNet,1.666666666666667
+Altstoffverwertung,GermaNet,3.333333333333333
+Altwagen,GermaNet,1.333333333333333
+Amphibienschutz,UBA Wortliste,4.333333333333333
+Anlagentechnologie,UBA Wortliste,1.0
+anpflanzen,Word2Vec,1.666666666666667
+Anteil Erneuerbaren,Word2Vec,4.0
+Aquakulturtechnik,UBA Wortliste,1.666666666666667
+Archäophyt,GermaNet,1.666666666666667
+Artenfülle,GermaNet,4.666666666666667
+Artenreichtum,GermaNet,4.666666666666667
+Artenschutz,UBA Wortliste,4.666666666666667
+Artenschutzgutachten,Word2Vec,4.0
+Artensterben,Word2Vec,4.0
+Artenvielfalt,UBA Wortliste,4.666666666666667
+Asbestsanierung,UBA Wortliste,2.333333333333333
+Atommüll,GermaNet,1.666666666666667
+Aufbereitungssystem,UBA Wortliste,2.333333333333333
+Aufforstung,Word2Vec,4.0
+Aufpflasterungen,Word2Vec,1.666666666666667
+Ausbau Erneuerbaren,Word2Vec,4.0
+Ausbau Netze,Word2Vec,1.0
+Ausbau regenerativer,Word2Vec,3.0
+Außendämmung,Word2Vec,3.0
+Autogasanlage,UBA Wortliste,1.0
+Autogasfilter,UBA Wortliste,1.333333333333333
+Automatisierungslösungen,Word2Vec,1.0
+Automatisierungstechnik,UBA Wortliste,1.0
+Batterie,Word2Vec,1.666666666666667
+Batteriekraftwerke,UBA Wortliste,3.333333333333333
+Batterietechnologie,UBA Wortliste,2.666666666666667
+Bauabfall,GermaNet,1.0
+baubiologisch,UBA Wortliste,3.333333333333333
+bäuerliche Landwirtschaft,Word2Vec,1.333333333333333
+Bauernladen,Word2Vec,3.333333333333333
+Bauernschaft,GermaNet,1.0
+Baugrundberatung,UBA Wortliste,1.666666666666667
+Baugrunduntersuchung,Word2Vec,1.666666666666667
+Baumpflanzungen,Word2Vec,4.0
+Baumschutz,UBA Wortliste,4.666666666666667
+Baunutzungsverordnung,Word2Vec,1.0
+Bauschadstoffuntersuchung,UBA Wortliste,2.0
+Bauschaum,Word2Vec,1.0
+Bauschutt,Word2Vec,1.0
+Bauschuttaufbereitung,UBA Wortliste,2.666666666666667
+Bauschuttdeponie,GermaNet,1.0
+Baustoffkunde,Word2Vec,1.0
+Bauteiloptimierung,UBA Wortliste,1.333333333333333
+Begasung,GermaNet,1.0
+Begleitpflanze,GermaNet,1.666666666666667
+Begrünung,UBA Wortliste,3.333333333333333
+belastetes Wasser,Word2Vec,1.0
+Bepflanzung,Word2Vec,3.333333333333333
+Beprobung,Word2Vec,1.666666666666667
+Berglandwirtschaft,GermaNet,1.0
+Bergpark,GermaNet,1.666666666666667
+Betonsanierung,Word2Vec,2.0
+Bezirksschornsteinfeger,GermaNet,1.0
+Bezirksschornsteinfegerin,GermaNet,1.0
+BHKW,UBA Wortliste,2.333333333333333
+Bienen,Word2Vec,3.333333333333333
+Bienenvölker,Word2Vec,3.333333333333333
+Bienenzüchter,GermaNet,2.333333333333333
+Bienenzüchterin,GermaNet,2.333333333333333
+Bike,GermaNet,3.333333333333333
+Bioabfall,GermaNet,2.0
+Bioabfällen,Word2Vec,2.0
+Bio-Bergbau,UBA Wortliste,3.333333333333333
+Biobetrieb,Word2Vec,4.0
+Biodiesel,UBA Wortliste,3.0
+Biodiversität,UBA Wortliste,4.333333333333333
+biodiversity,UBA Wortliste,4.333333333333333
+Biodünger,UBA Wortliste,3.666666666666667
+Bioenergie,UBA Wortliste,4.0
+Bioerdgas,Word2Vec,2.666666666666667
+Bioethanol,UBA Wortliste,3.0
+Biogas,UBA Wortliste,3.333333333333333
+Biogasanlage,Word2Vec,3.333333333333333
+Biogaserzeugung,Word2Vec,3.333333333333333
+Biogasproduktion,Word2Vec,3.333333333333333
+biogen,GermaNet,1.0
+Bio-Heizöl,UBA Wortliste,3.0
+Bioinformatik,UBA Wortliste,1.666666666666667
+Biokerosin,manuell ergänzt,3.0
+Bio-Kerosin,UBA Wortliste,3.0
+Biokraftstoff,UBA Wortliste,3.0
+Biokraftwerk,UBA Wortliste,3.0
+Biokreis,manuell ergänzt,4.0
+Biokunststoff,UBA Wortliste,3.0
+Bioladen,UBA Wortliste,4.0
+Bio-Laden,Word2Vec,4.0
+Bioland,UBA Wortliste,4.0
+Biolandbau,GermaNet,4.0
+Biolandwirtschaft,GermaNet,4.0
+Bio-Landwirtschaft,UBA Wortliste,4.0
+biologisch,UBA Wortliste,2.0
+biologisch-dynamisch,GermaNet,4.0
+biologische Vielfalt,Word2Vec,4.0
+biologischer Anbau,manuell ergänzt,3.666666666666667
+Biom,GermaNet,4.0
+Biomarkt,UBA Wortliste,4.333333333333333
+Biomasse,UBA Wortliste,2.666666666666667
+Biomasseanlagen,Word2Vec,3.333333333333333
+Biomasse-Heizkraftwerk,Word2Vec,3.333333333333333
+Biomassenerzeugung,UBA Wortliste,3.333333333333333
+Biomassenutzung,UBA Wortliste,3.333333333333333
+Biomethan,UBA Wortliste,3.666666666666667
+Biomining,UBA Wortliste,1.666666666666667
+Bionik,UBA Wortliste,1.666666666666667
+bionisch,UBA Wortliste,1.666666666666667
+Biopark,UBA Wortliste,4.0
+Bio-Passivhaus,UBA Wortliste,4.0
+biophysikalisch,GermaNet,1.0
+Bioprozesstechnik,UBA Wortliste,1.666666666666667
+Bio-Qualität,Word2Vec,3.666666666666667
+Bioraffinerie,UBA Wortliste,3.0
+Bioreaktor,UBA Wortliste,3.333333333333333
+Bio-Siegel,manuell ergänzt,4.0
+Biosprit,Word2Vec,3.0
+Biotech,UBA Wortliste,1.666666666666667
+Biotechnologie,UBA Wortliste,1.666666666666667
+Biotechnologieunternehmen,Word2Vec,1.666666666666667
+biotechnologisch,Word2Vec,1.666666666666667
+Biotop,UBA Wortliste,3.0
+Biotoppflege,Word2Vec,4.0
+Bioverfahrenstechnik,UBA Wortliste,1.666666666666667
+Biowissenschaften,Word2Vec,1.0
+Bio-Zeichen,manuell ergänzt,4.0
+Biozucht,UBA Wortliste,4.0
+blauer Engel,UBA Wortliste,4.333333333333333
+Blockheizkraftwerk,UBA Wortliste,2.333333333333333
+Blühflächen,Word2Vec,3.333333333333333
+Blume,GermaNet,1.666666666666667
+Blütenpflanze,GermaNet,2.333333333333333
+BMW i8,Word2Vec,3.0
+BMX-Rad,GermaNet,2.0
+Bodenaustausch,Word2Vec,2.0
+Bodendecker,GermaNet,1.666666666666667
+Bodendekontaminierung,UBA Wortliste,2.333333333333333
+Bodenluftabsaugung,UBA Wortliste,2.0
+Bodenluftprobe,UBA Wortliste,1.666666666666667
+Bodenluftsanierung,UBA Wortliste,2.0
+Bodennutzung,Word2Vec,1.0
+Bodenreinigung,UBA Wortliste,1.666666666666667
+Bodensanierung,UBA Wortliste,2.333333333333333
+Bodenschutz,UBA Wortliste,3.666666666666667
+Bodenuntersuchung,UBA Wortliste,2.0
+Bodenverbesserung,Word2Vec,2.333333333333333
+Bodenwäsche,UBA Wortliste,2.0
+Brandsanierung,UBA Wortliste,2.0
+Brandschutz,UBA Wortliste,1.333333333333333
+Brandschutzauflagen,Word2Vec,1.0
+Brandschutzmaßnahmen,Word2Vec,1.0
+Brandschutzsanierung,Word2Vec,2.0
+Brauchwasserversorgung,Word2Vec,2.0
+Brauchwasserverwendung,UBA Wortliste,2.333333333333333
+Bremsenergie,UBA Wortliste,2.333333333333333
+Bremsenergierückgewinnung,Word2Vec,3.0
+Brennstoffzelle ,UBA Wortliste,3.0
+Brennstoffzellenantrieb,UBA Wortliste,3.0
+Brennwertkessel,UBA Wortliste,2.0
+Brennwerttechnik,UBA Wortliste,1.666666666666667
+Brückensanierung,Word2Vec,1.666666666666667
+Brunnenbauer,UBA Wortliste,1.0
+Brunnenbauerin,GermaNet,1.0
+Brunnenhandwerk,UBA Wortliste,2.333333333333333
+Bund Naturschutz,Word2Vec,3.666666666666667
+Bürgerpark,GermaNet,2.333333333333333
+Call-a-bike,UBA Wortliste,3.666666666666667
+Car2go,Word2Vec,3.333333333333333
+carbon footprint,UBA Wortliste,4.666666666666667
+Carbon Footprinting,UBA Wortliste,4.666666666666667
+Carbonfasern,Word2Vec,2.666666666666667
+Carsharing,UBA Wortliste,3.333333333333333
+Car-Sharing,GermaNet,3.333333333333333
+Chemische Rückgewinnung,UBA Wortliste,2.333333333333333
+Chlormessgeräte,UBA Wortliste,1.333333333333333
+Cloud Computing,UBA Wortliste,2.0
+Cloud-Computing,Word2Vec,2.0
+Cloud-Diensten,Word2Vec,1.666666666666667
+Cloud-Geschäft,Word2Vec,1.666666666666667
+Cloud-Lösungen,Word2Vec,2.0
+Cloud-Services,Word2Vec,1.666666666666667
+CO2-arme Energieerzeugung,UBA Wortliste,4.0
+CO2-Ausstoß,GermaNet,4.666666666666667
+CO2-Bilanz,UBA Wortliste,4.666666666666667
+CO2-Emission,GermaNet,4.666666666666667
+co2-grenzwert,manuell ergänzt,5.0
+CO2-neutral,Word2Vec,5.0
+CO2-Neutralität,UBA Wortliste,5.0
+CO2-Reduktion,Word2Vec,4.666666666666667
+CO2-Reduzierung,UBA Wortliste,4.666666666666667
+CO2-Waschprozess,UBA Wortliste,4.666666666666667
+Co-Fermentation,UBA Wortliste,1.333333333333333
+Composting,UBA Wortliste,2.666666666666667
+Concentrated Solar Power-Technologie,UBA Wortliste,4.0
+contracting,UBA Wortliste,3.0
+Corex-Verfahren,UBA Wortliste,1.333333333333333
+Corporate Citizenship,manuell ergänzt,3.333333333333333
+Corporate Governance,manuell ergänzt,3.333333333333333
+corporate responsibility,UBA Wortliste,3.333333333333333
+Corporate Responsibility,manuell ergänzt,3.333333333333333
+CSP,UBA Wortliste,3.333333333333333
+CSR,UBA Wortliste,3.333333333333333
+Dachbegrünung,GermaNet,3.666666666666667
+Dacherneuerung,Word2Vec,1.666666666666667
+Dachisolierung,UBA Wortliste,2.666666666666667
+Dachreparatur,Word2Vec,1.666666666666667
+Dachsanierung,manuell ergänzt,2.0
+Damenfahrrad,GermaNet,3.333333333333333
+Damenrad,GermaNet,3.333333333333333
+Dammbau,Word2Vec,2.0
+dämmen,UBA Wortliste,2.333333333333333
+Dämmmaterial,GermaNet,2.0
+Dämm-Material,GermaNet,2.0
+Dämmschicht,GermaNet,2.333333333333333
+Dämmstoff,UBA Wortliste,2.0
+Dämmung,Word2Vec,2.333333333333333
+Dampfkraftwerk,manuell ergänzt,3.333333333333333
+Dampfparameterkraftwerk,UBA Wortliste,3.333333333333333
+DEA-Cluster,manuell ergänzt,3.333333333333333
+Deichbau,UBA Wortliste,2.0
+Deinking,UBA Wortliste,1.666666666666667
+De-Inking Schlamm,UBA Wortliste,1.666666666666667
+Dekarbonisierung,UBA Wortliste,4.333333333333333
+Dekontamination,manuell ergänzt,2.0
+Dekontaminationsanlage,UBA Wortliste,2.333333333333333
+Dekontaminationsmaßnahme,UBA Wortliste,2.0
+Dekontaminierung,manuell ergänzt,2.0
+Dematerialisierung,UBA Wortliste,3.333333333333333
+Demeter,UBA Wortliste,4.0
+Denitrifikation,UBA Wortliste,1.333333333333333
+Deponie,UBA Wortliste,1.666666666666667
+Deponieabsicherung,UBA Wortliste,2.0
+Deponiebau,UBA Wortliste,1.666666666666667
+Deponiegas,Word2Vec,1.666666666666667
+Deponiesanierung,UBA Wortliste,2.333333333333333
+Desertec,UBA Wortliste,4.0
+design to cost,UBA Wortliste,2.666666666666667
+design-to-cost,manuell ergänzt,2.666666666666667
+dezentrale Energieerzeugung,UBA Wortliste,3.333333333333333
+dezentrale Energieversorgung,UBA Wortliste,3.333333333333333
+dezentrale Erzeugungsanlagen,manuell ergänzt,3.333333333333333
+dezentrales Klärwerk,UBA Wortliste,3.333333333333333
+Dichtheitsprüfgerät,UBA Wortliste,1.333333333333333
+Dichtstoffe,Word2Vec,2.0
+Dichtungsbahn,UBA Wortliste,1.0
+Dichtwände,UBA Wortliste,1.333333333333333
+Dieselpartikelfilter,Word2Vec,2.666666666666667
+Dieselverbrauch,Word2Vec,1.0
+dimmbar,UBA Wortliste,1.666666666666667
+dimmen,UBA Wortliste,1.666666666666667
+direct-push Verfahren,manuell ergänzt,1.333333333333333
+direct-push-Verfahren,UBA Wortliste,1.333333333333333
+Direkteinspritzung,UBA Wortliste,1.0
+direktelektrische Antriebe,UBA Wortliste,3.666666666666667
+Downsizing,UBA Wortliste,4.333333333333333
+Drahtesel,GermaNet,3.333333333333333
+Dreckwasser,GermaNet,1.333333333333333
+Drehkondensator,GermaNet,1.0
+Drehstrommotor,GermaNet,3.333333333333333
+Dreifachverglasung,Word2Vec,2.333333333333333
+Druckerhöhungsanlage,UBA Wortliste,1.0
+Druckluftspeicherung,UBA Wortliste,2.0
+Druckspeicher,Word2Vec,1.666666666666667
+Druckspeicherkraftwerke,UBA Wortliste,3.0
+Dünger,Word2Vec,1.0
+Dünnschicht-Solarmodul,UBA Wortliste,4.0
+Durchflussregulierung,UBA Wortliste,1.666666666666667
+E-Antrieb,Word2Vec,3.666666666666667
+E-Auto,GermaNet,3.666666666666667
+E-Bikes,UBA Wortliste,3.333333333333333
+Eco-Design,UBA Wortliste,3.333333333333333
+Ecoland,UBA Wortliste,4.0
+Eco-Modus,Word2Vec,3.333333333333333
+ecosan,manuell ergänzt,3.333333333333333
+Eco-up,UBA Wortliste,4.0
+Ecovin,UBA Wortliste,4.0
+EEG-Umlage,Word2Vec,3.0
+Effizienzmaßnahmen,Word2Vec,3.333333333333333
+E-Gouvernment,UBA Wortliste,3.0
+eindämmen,GermaNet,2.0
+Eingrünung,Word2Vec,3.333333333333333
+Einspeisemanagement,UBA Wortliste,3.666666666666667
+Einwegflaschen,Word2Vec,1.333333333333333
+Einzelpflanze,GermaNet,1.666666666666667
+Eisenschrott,GermaNet,1.0
+elektrische Antriebe,UBA Wortliste,3.666666666666667
+elektrische Ausrüstungen,UBA Wortliste,1.0
+elektrische Energie,Word2Vec,2.666666666666667
+elektrischer Nabenmotor,UBA Wortliste,2.666666666666667
+elektrischer Radnabenmotor,manuell ergänzt,2.666666666666667
+Elektro Bikes,UBA Wortliste,3.333333333333333
+Elektroantrieb,UBA Wortliste,3.666666666666667
+Elektroauto,UBA Wortliste,3.666666666666667
+Elektro-Auto,Word2Vec,3.666666666666667
+elektrochemischer Speicherung,UBA Wortliste,3.0
+Elektrodenkessel,manuell ergänzt,1.0
+Elektrofahrrad,GermaNet,3.333333333333333
+Elektrofahrräder,UBA Wortliste,3.333333333333333
+Elektro-Fahrräder,Word2Vec,3.333333333333333
+Elektrofahrzeuge,UBA Wortliste,3.666666666666667
+Elektrofilter,UBA Wortliste,1.333333333333333
+Elektroheizung,Word2Vec,1.0
+Elektrokessel,UBA Wortliste,1.0
+Elektroleichtmobil,UBA Wortliste,3.666666666666667
+Elektrolyseure,UBA Wortliste,1.333333333333333
+Elektrolytkondensator,GermaNet,1.0
+Elektromagnetventil,manuell ergänzt,1.666666666666667
+Elektromobil,GermaNet,3.666666666666667
+Elektromobilität,UBA Wortliste,3.666666666666667
+Elektromotor,UBA Wortliste,3.333333333333333
+Elektronikschrott,GermaNet,1.666666666666667
+Elektroofen,UBA Wortliste,1.0
+Elektrorad,GermaNet,3.333333333333333
+Elektroräder,Word2Vec,3.333333333333333
+Elektroroller,UBA Wortliste,3.0
+Elektrosmogmessung,UBA Wortliste,2.333333333333333
+Elektrosmog-Sanierung,UBA Wortliste,2.333333333333333
+Elektrostahlverfahren,UBA Wortliste,2.0
+Elektrotankstelle,UBA Wortliste,3.666666666666667
+Elektro-Tankstelle,manuell ergänzt,3.666666666666667
+Elektroventil,manuell ergänzt,1.666666666666667
+EMAS,UBA Wortliste,4.0
+E-Maschine,Word2Vec,2.0
+Emission,UBA Wortliste,3.666666666666667
+emissionsfrei,Word2Vec,4.666666666666667
+emissions-grenzwert,manuell ergänzt,4.666666666666667
+Emissionsreduktion,manuell ergänzt,5.0
+Emissionswert,GermaNet,3.333333333333333
+e-mobil,UBA Wortliste,3.666666666666667
+E-Mobility,UBA Wortliste,3.666666666666667
+E-Motor,GermaNet,3.333333333333333
+EN 16001,UBA Wortliste,4.333333333333333
+energetisch,UBA Wortliste,3.666666666666667
+energetisch saniert,Word2Vec,3.0
+energetische Gebäudesanierung,Word2Vec,3.0
+energetische Nutzung,Word2Vec,3.666666666666667
+Energetische Sanierung,Word2Vec,3.0
+energetische Verwertung,UBA Wortliste,3.666666666666667
+Energie einzusparen,Word2Vec,4.0
+Energieagentur,UBA Wortliste,2.666666666666667
+Energieausbeute,UBA Wortliste,3.333333333333333
+Energieausweis,UBA Wortliste,3.666666666666667
+Energiebedarf,UBA Wortliste,1.666666666666667
+Energieberater,UBA Wortliste,3.0
+Energieberaterin,GermaNet,3.0
+Energieberatung,Word2Vec,3.0
+Energieberatungsdienstleistungen,UBA Wortliste,3.0
+Energiebilanz,UBA Wortliste,3.666666666666667
+Energiebilanzverfahren,manuell ergänzt,3.333333333333333
+Energie-Check,UBA Wortliste,3.666666666666667
+Energiecontractor,UBA Wortliste,2.0
+Energiedienstleistung,UBA Wortliste,2.333333333333333
+energieeffizient,UBA Wortliste,4.333333333333333
+Energieeffizienz,UBA Wortliste,4.333333333333333
+Energie-Effizienz,Word2Vec,4.333333333333333
+Energieeffizienzdienstleistungen,UBA Wortliste,4.333333333333333
+Energieeinsatz,Word2Vec,3.0
+Energieeinsparanalyse,UBA Wortliste,4.333333333333333
+Energieeinsparmaßnahmen,UBA Wortliste,4.333333333333333
+Energieeinsparung,UBA Wortliste,4.333333333333333
+Energieeinsparverordnung,UBA Wortliste,3.666666666666667
+Energieersparnis,GermaNet,4.333333333333333
+Energieerzeugungsstruktur,UBA Wortliste,2.0
+Energiegewinn,Word2Vec,3.333333333333333
+Energieholz,Word2Vec,2.333333333333333
+Energiehunger,GermaNet,1.333333333333333
+Energiekonzept,UBA Wortliste,3.0
+Energiekosten,UBA Wortliste,2.333333333333333
+Energiemais,Word2Vec,2.0
+Energiemanagement,UBA Wortliste,2.666666666666667
+Energiemix,UBA Wortliste,4.0
+Energiemonitoring,manuell ergänzt,3.0
+Energienetzen,Word2Vec,1.666666666666667
+Energieoptimierung,UBA Wortliste,4.0
+Energieordnung,UBA Wortliste,3.666666666666667
+Energiepass,GermaNet,3.666666666666667
+Energiepflanze,UBA Wortliste,3.333333333333333
+Energiepolitik,Word2Vec,4.0
+Energiepreise,Word2Vec,1.666666666666667
+Energieproduktivität,UBA Wortliste,3.333333333333333
+Energierückgewinnung,UBA Wortliste,3.0
+Energiesparberater,UBA Wortliste,3.666666666666667
+Energiesparclub,UBA Wortliste,4.0
+Energiesparen,UBA Wortliste,4.0
+energiesparende Reifen,UBA Wortliste,3.0
+Energiesparfenster,UBA Wortliste,3.0
+Energiesparlampe,UBA Wortliste,3.0
+Energiesparmaßnahme,GermaNet,4.333333333333333
+Energiespeicherung,UBA Wortliste,3.333333333333333
+Energiestandard,Word2Vec,2.666666666666667
+Energiestrategie,GermaNet,3.0
+energietechnisch,Word2Vec,2.0
+Energietechnologien,Word2Vec,2.0
+Energieträger,Word2Vec,1.333333333333333
+Energieverbrauch,Word2Vec,2.333333333333333
+Energieverbraucheinsparung,UBA Wortliste,3.666666666666667
+Energieverbrauch-Einsparung,manuell ergänzt,3.666666666666667
+Energieverordnung,manuell ergänzt,3.666666666666667
+Energieversorgung,Word2Vec,2.0
+Energiewende,UBA Wortliste,4.333333333333333
+Enev,UBA Wortliste,3.666666666666667
+Entaschung,UBA Wortliste,1.333333333333333
+Entchlorungsanlage,UBA Wortliste,2.0
+Enteisenungsanlage,UBA Wortliste,1.333333333333333
+Entgasungstechnik,UBA Wortliste,1.333333333333333
+Entgiftungsanlage,UBA Wortliste,2.0
+Entkeimungsanlage,UBA Wortliste,1.333333333333333
+Entsäuerungsanlage,UBA Wortliste,1.333333333333333
+Entschlammung,Word2Vec,1.333333333333333
+Entsorger,GermaNet,1.0
+Entsorgung,UBA Wortliste,1.333333333333333
+Entsorgungsbetrieb,GermaNet,1.0
+Entsorgungsfirma,GermaNet,1.0
+Entsorgungskosten,GermaNet,2.0
+Entsorgungsproblem,GermaNet,1.0
+Entsorgungsunternehmen,GermaNet,1.0
+Entstaubungstechnik,UBA Wortliste,1.666666666666667
+Entstickungsanlage,UBA Wortliste,1.333333333333333
+Entwässerungssysteme,Word2Vec,1.666666666666667
+Entwesung,GermaNet,1.0
+Epiphyt,GermaNet,1.666666666666667
+Erddeponie,Word2Vec,1.0
+Erdgas,UBA Wortliste,1.0
+Erdgastankstelle,Word2Vec,1.666666666666667
+Erdöl,Word2Vec,1.0
+Erdsystemforschung,UBA Wortliste,2.333333333333333
+Erdwärme,UBA Wortliste,3.666666666666667
+erneuerbar,UBA Wortliste,4.333333333333333
+erneuerbare Energie,Word2Vec,4.0
+erneuerbare Energiequellen,Word2Vec,4.0
+erneuerbare Energieträger,Word2Vec,4.0
+Erneuerbare-Energien-Gesetz,GermaNet,3.0
+Ernte,GermaNet,1.0
+E-Roller,Word2Vec,3.0
+Erosionsschutz,UBA Wortliste,3.0
+Errichterschiff,Word2Vec,2.666666666666667
+Ersatzbrennstoff,UBA Wortliste,3.333333333333333
+Erzeugergemeinschaften,Word2Vec,2.333333333333333
+Erzeugungskapazitäten,Word2Vec,1.0
+Essensreste,Word2Vec,1.666666666666667
+E-Tankstelle,Word2Vec,3.666666666666667
+Euro 5,manuell ergänzt,3.666666666666667
+Euro 5-Norm,manuell ergänzt,3.666666666666667
+Euro 6,manuell ergänzt,3.666666666666667
+Euro 6-Norm,manuell ergänzt,3.666666666666667
+Euro-Normen,UBA Wortliste,3.666666666666667
+fachgerechte Entsorgung,Word2Vec,2.0
+Fahrbahnbelag,Word2Vec,1.0
+Fahrertraining,UBA Wortliste,1.0
+Fahrgemeinschaft,UBA Wortliste,3.333333333333333
+Fahrrad,UBA Wortliste,3.333333333333333
+Fahrradanhänger,GermaNet,3.0
+Fahrradfahren,GermaNet,3.666666666666667
+Fahrradfahrt,GermaNet,3.666666666666667
+Fahrradwege,UBA Wortliste,3.333333333333333
+Fäkalien,UBA Wortliste,1.0
+Faltenfilter,GermaNet,1.666666666666667
+Faltrad,GermaNet,3.333333333333333
+Fassadenbegrünung,GermaNet,4.0
+Fassadendämmung,Word2Vec,2.666666666666667
+Fassadenrenovierung,Word2Vec,1.666666666666667
+Faulgas,GermaNet,3.0
+Fauna,UBA Wortliste,3.333333333333333
+Feinstaubfilter,UBA Wortliste,2.0
+Feldbau,GermaNet,1.0
+Feldbereinigung,GermaNet,1.0
+Fensterbau,UBA Wortliste,2.0
+Fermentation,UBA Wortliste,1.333333333333333
+Fermentierung,GermaNet,1.333333333333333
+Fernüberwachung,Word2Vec,1.0
+Fernwärme,UBA Wortliste,3.666666666666667
+Feuchtbiotop,GermaNet,3.0
+Feuchtgebiet,Word2Vec,2.333333333333333
+Feuerschutz,GermaNet,1.0
+Filteranlagen,Word2Vec,2.0
+Filtereinsätze,UBA Wortliste,2.0
+Filtergewebe,UBA Wortliste,1.666666666666667
+Filtertechnik,UBA Wortliste,1.333333333333333
+Filtertextilie,UBA Wortliste,2.0
+Filtration,UBA Wortliste,1.0
+Filtrierung,GermaNet,1.0
+Fischabfall,GermaNet,1.0
+Flächenfilter,UBA Wortliste,1.0
+Flächenheizung,UBA Wortliste,2.666666666666667
+Flächenmanagement,Word2Vec,1.0
+Flächenrecycling,GermaNet,3.666666666666667
+Flächenverbrauchs,Word2Vec,2.0
+Flockungsmittel,Word2Vec,1.0
+Flotation,UBA Wortliste,1.0
+Flözgas,UBA Wortliste,1.666666666666667
+Flurbereinigung,GermaNet,1.666666666666667
+Flüssiggas,Word2Vec,1.0
+Flusskraftwerk,Word2Vec,3.333333333333333
+Flüsterasphalt,UBA Wortliste,1.666666666666667
+Folgenutzung,Word2Vec,2.666666666666667
+Folienkondensator,GermaNet,1.0
+Forstbotanik,Word2Vec,1.666666666666667
+Forstschutz,GermaNet,4.333333333333333
+Forstwirtschaft,Word2Vec,2.0
+Fotovoltaik,UBA Wortliste,4.0
+Fotovoltaikanlage,GermaNet,4.0
+Fotovoltaik-Anlage,Word2Vec,4.0
+Freilandhaltung,UBA Wortliste,4.0
+Fundamenttechnologie,UBA Wortliste,2.333333333333333
+Fußwege,Word2Vec,2.666666666666667
+Gäa,UBA Wortliste,4.0
+Gärrestaufbereitung,UBA Wortliste,3.0
+Gärreste,Word2Vec,2.0
+Garten,GermaNet,2.0
+Gartenabfall,GermaNet,1.666666666666667
+Gartenanlage,GermaNet,1.333333333333333
+Gartenbau,UBA Wortliste,2.0
+Gartenkompost,GermaNet,4.0
+Gartenpflanze,GermaNet,1.666666666666667
+Gasabscheidungsanlage,UBA Wortliste,1.333333333333333
+Gasanalysegeräte,UBA Wortliste,1.333333333333333
+Gaseinspeisung,UBA Wortliste,1.333333333333333
+Gaskraftwerk,UBA Wortliste,2.0
+Gas-und-Dampf-Anlage,UBA Wortliste,2.333333333333333
+Gas-und-Dampf-Kombikraftwerk,manuell ergänzt,2.333333333333333
+Gas-und-Dampfturbinen-Kraftwerk,manuell ergänzt,2.333333333333333
+Gaswärmepumpe,manuell ergänzt,2.666666666666667
+Gas-Wärmepumpe,manuell ergänzt,2.666666666666667
+Gas-Wärme-Pumpe,UBA Wortliste,2.666666666666667
+Gebäudeautomation,UBA Wortliste,1.0
+Gebäudeautomatisierung,UBA Wortliste,1.0
+Gebäudediagnostik,UBA Wortliste,2.0
+Gebäude-Dichtheitsprüfung,UBA Wortliste,2.333333333333333
+Gebäudehülle,Word2Vec,2.333333333333333
+Gebäudeleittechnik,UBA Wortliste,1.0
+Gebäudesanierung,Word2Vec,2.0
+Gebäudetechnik,UBA Wortliste,1.666666666666667
+Gebäudethermografie,UBA Wortliste,3.0
+Gebrauchtfahrzeug,GermaNet,1.333333333333333
+Gebrauchtwagen,GermaNet,1.333333333333333
+Gefahrgutausrüstung,UBA Wortliste,1.333333333333333
+Gefahrgutbeauftragter,UBA Wortliste,1.0
+Gefahrgutkennzeichnung,UBA Wortliste,1.333333333333333
+Gefahrgutklassifizierung,UBA Wortliste,1.333333333333333
+Gefahrgutlagerung,UBA Wortliste,1.333333333333333
+Gefahrgutverpackung,UBA Wortliste,1.333333333333333
+Gefahrstoff-Management,UBA Wortliste,2.0
+Gefäßpflanze,GermaNet,1.666666666666667
+Gehölz,GermaNet,1.666666666666667
+gelbe Säcke,Word2Vec,1.333333333333333
+Gelben Sack,Word2Vec,1.333333333333333
+Gelben Säcke,Word2Vec,1.333333333333333
+Gemeindepark,GermaNet,2.333333333333333
+Gemüse anbauen,Word2Vec,1.666666666666667
+Gemüsebau,Word2Vec,1.666666666666667
+Gemüsepflanze,GermaNet,1.666666666666667
+Geobotanik,UBA Wortliste,2.333333333333333
+Geophyt,GermaNet,1.666666666666667
+Geothermie,UBA Wortliste,3.666666666666667
+geothermisch,UBA Wortliste,3.666666666666667
+geräuscharm,Word2Vec,2.0
+Geräuschemission,GermaNet,2.0
+Geruchsentfernung,UBA Wortliste,1.333333333333333
+Geruchsneutralisation,UBA Wortliste,1.333333333333333
+Gerümpel,GermaNet,1.0
+Gesamtemission,GermaNet,3.666666666666667
+Gesamtsanierung,Word2Vec,2.0
+Gesamtwirkungsgrad,UBA Wortliste,3.333333333333333
+Getreidewirtschaft,GermaNet,1.0
+Gewässersanierung,UBA Wortliste,2.666666666666667
+Gewässerschutz,Word2Vec,4.0
+Gewebefilter,UBA Wortliste,1.333333333333333
+Gewerbeabfall,GermaNet,1.0
+Gewerbemüll,GermaNet,1.0
+Gezeitenenergie,UBA Wortliste,3.333333333333333
+Gezeitenkraftwerk,UBA Wortliste,3.333333333333333
+giftige Gase,Word2Vec,1.333333333333333
+Giftmüll,GermaNet,1.333333333333333
+Giftpflanze,GermaNet,1.333333333333333
+Glaswolle,Word2Vec,2.333333333333333
+going green,UBA Wortliste,4.666666666666667
+Grätzelzelle,manuell ergänzt,4.0
+Grätzel-Zellen,UBA Wortliste,4.0
+Grauwasser,UBA Wortliste,1.0
+Green Building,manuell ergänzt,4.0
+Green Climate Fund,manuell ergänzt,4.333333333333333
+Green Economy,Word2Vec,4.0
+Green IT,Word2Vec,4.0
+green jobs,UBA Wortliste,4.666666666666667
+Greenbuilding,manuell ergänzt,4.0
+GreenIT,UBA Wortliste,4.0
+GreenTech,UBA Wortliste,4.666666666666667
+Greentech-Beratungsdienstleistungen,UBA Wortliste,4.333333333333333
+Grubengas,UBA Wortliste,2.333333333333333
+Grünabfällen,Word2Vec,2.0
+Grünanlage,UBA Wortliste,3.666666666666667
+Grundlast,GermaNet,1.0
+Gründüngung,Word2Vec,2.666666666666667
+Grundwasser,UBA Wortliste,2.333333333333333
+Grundwasserschutz,GermaNet,4.0
+Grundwasserspiegel,Word2Vec,2.0
+grüne Klimafonds,UBA Wortliste,4.333333333333333
+grüner Strukturwandel,UBA Wortliste,4.666666666666667
+Grünfläche,Word2Vec,3.333333333333333
+Grünflächenpflege,Word2Vec,3.0
+Grüngut,Word2Vec,2.666666666666667
+Grünhackgut,UBA Wortliste,2.666666666666667
+Grünlandwirtschaft,GermaNet,2.0
+Grünpflanze,GermaNet,1.666666666666667
+Grünpflege,Word2Vec,2.333333333333333
+Grünschnitt,Word2Vec,2.0
+Grünstreifen,GermaNet,2.666666666666667
+Grünzug,GermaNet,2.666666666666667
+GuD,UBA Wortliste,2.333333333333333
+GuD-Kraftwerke,UBA Wortliste,2.333333333333333
+Gülle,Word2Vec,1.666666666666667
+Hackschnitzelanlage,Word2Vec,2.333333333333333
+Hackschnitzelheizung,Word2Vec,2.333333333333333
+Hackschnitzeln,Word2Vec,2.333333333333333
+Häckselplatz,Word2Vec,1.666666666666667
+Halophyt,GermaNet,1.666666666666667
+Haltungsform,Word2Vec,3.0
+Haufwerk,GermaNet,1.0
+Haushaltsmüll,UBA Wortliste,1.0
+Hausmüll,UBA Wortliste,1.0
+Haustechnik,Word2Vec,1.0
+Heidepflanze,GermaNet,2.333333333333333
+Heizenergiebedarf,GermaNet,1.666666666666667
+Heizgutachten,UBA Wortliste,2.666666666666667
+Heizkesseln,Word2Vec,1.0
+Heizkraftwerk,Word2Vec,1.0
+Heizspiegel,UBA Wortliste,1.666666666666667
+Heiztechnik,Word2Vec,1.333333333333333
+Heizung-Klima-Luft,UBA Wortliste,1.0
+Heizung-Klima-Lüftung,UBA Wortliste,1.0
+Heizungsoptimierung,UBA Wortliste,3.0
+Heizungstechnik,Word2Vec,1.0
+Heizwerk,Word2Vec,1.0
+Herrenfahrrad,GermaNet,3.333333333333333
+Herrenrad,GermaNet,3.333333333333333
+Hitzeschutz,Word2Vec,1.333333333333333
+HKW,UBA Wortliste,1.0
+Hobelspäne,Word2Vec,1.0
+Hocheffizienzmotor,UBA Wortliste,3.333333333333333
+hochenergetisch,GermaNet,2.0
+Hochlastfaulung ,UBA Wortliste,2.333333333333333
+Hochleistungskraftwerk,UBA Wortliste,2.333333333333333
+Hochwasserschutz,UBA Wortliste,3.0
+Hochwasserschutzmassnahmen,Word2Vec,2.333333333333333
+Hofladen,Word2Vec,3.333333333333333
+höheren Wirkungsgrad,Word2Vec,2.333333333333333
+Holzabfall,GermaNet,1.333333333333333
+Holzabfälle,Word2Vec,1.0
+Holzenergie,UBA Wortliste,2.666666666666667
+Holzfeuerungsanlage,UBA Wortliste,2.0
+Holzgaswerk,UBA Wortliste,3.0
+Holzgewächs,GermaNet,1.666666666666667
+Holzhackschnitzel,UBA Wortliste,2.666666666666667
+Holzheizung,Word2Vec,2.333333333333333
+Holzpellet,GermaNet,2.0
+Holzpelletkessel,UBA Wortliste,2.666666666666667
+Holzpflanze,GermaNet,1.666666666666667
+Holzschnitzel,Word2Vec,2.666666666666667
+Hopfenbau,GermaNet,1.0
+Hubspeicherkraftwerke,UBA Wortliste,3.333333333333333
+Hybridantrieb,UBA Wortliste,3.333333333333333
+Hybrid-Antrieb,Word2Vec,3.333333333333333
+Hybridauto,Word2Vec,3.333333333333333
+Hybridbus,UBA Wortliste,3.333333333333333
+Hybridkraftwerk,manuell ergänzt,3.0
+Hybrid-PKW,UBA Wortliste,3.333333333333333
+Hybridtechnik,Word2Vec,3.0
+Hybrid-Traktor,UBA Wortliste,3.333333333333333
+Hydraulikpumpen,Word2Vec,1.333333333333333
+Hydroelektrizität,UBA Wortliste,4.0
+Hydrologe,UBA Wortliste,3.0
+Hydrostrom,UBA Wortliste,4.0
+Imker,UBA Wortliste,2.666666666666667
+Imkerin,GermaNet,2.333333333333333
+Immissionsschutz,UBA Wortliste,4.0
+immissionsschutzrechtlichen,Word2Vec,4.0
+Impuls-Programm,UBA Wortliste,4.0
+Industrieabfall,GermaNet,1.0
+Industrieabwasser,GermaNet,1.333333333333333
+Industriemüll,GermaNet,1.0
+Innendämmung,Word2Vec,3.0
+Insektenwelt,GermaNet,3.0
+Inselnetz,manuell ergänzt,2.333333333333333
+Instandsetzung,Word2Vec,2.666666666666667
+Integrated Efficiency,UBA Wortliste,4.333333333333333
+intelligente Messsysteme,UBA Wortliste,2.0
+intelligente Netze,UBA Wortliste,3.333333333333333
+intelligente Steuerungssysteme,UBA Wortliste,2.0
+Intelligente Zähler,UBA Wortliste,3.333333333333333
+intelligenten Architektur,UBA Wortliste,2.666666666666667
+Intelligentes Messsystem,UBA Wortliste,2.0
+Intelligentes Steuerungssystem,UBA Wortliste,2.0
+intelligentes Verkehrskonzept,UBA Wortliste,3.333333333333333
+Internet der Energien,UBA Wortliste,3.333333333333333
+ISO 14001,UBA Wortliste,4.333333333333333
+ISO 14051,UBA Wortliste,4.333333333333333
+ISO 50001,UBA Wortliste,4.333333333333333
+Isolationstechnik,UBA Wortliste,2.333333333333333
+Isolierfacharbeiter,UBA Wortliste,2.666666666666667
+Käfighaltung,Word2Vec,1.0
+Kalkmilch,Word2Vec,2.0
+Kälteanlage,UBA Wortliste,1.0
+Kältemaschine,UBA Wortliste,1.333333333333333
+Kältenetz,UBA Wortliste,1.333333333333333
+Kältetechnik,UBA Wortliste,1.0
+Kältetechnologie,UBA Wortliste,1.0
+Kaminfeger,GermaNet,1.0
+Kaminfegerin,GermaNet,1.0
+Kaminkehrer,GermaNet,1.0
+Kaminkehrerin,GermaNet,1.0
+Kampfmittelbeseitigung,UBA Wortliste,1.666666666666667
+Kanalisationsbauteil,UBA Wortliste,1.0
+Kanalisationssystem,UBA Wortliste,1.0
+Kanalnetz,Word2Vec,1.0
+Kanalreinigung,UBA Wortliste,1.333333333333333
+Kanalsanierung,UBA Wortliste,2.0
+Kanalsystem,Word2Vec,1.0
+Kätzchenblütler,GermaNet,1.666666666666667
+Kavernenkraftwerk,Word2Vec,2.666666666666667
+Kehrmaschine,UBA Wortliste,1.0
+Kehrsaugmaschine,UBA Wortliste,1.0
+Keimling,GermaNet,1.666666666666667
+Kinderfahrrad,GermaNet,2.666666666666667
+Kinderrad,GermaNet,2.666666666666667
+Klappfahrrad,GermaNet,3.333333333333333
+Klapprad,GermaNet,3.333333333333333
+Kläranlage,UBA Wortliste,2.0
+Klärgas,Word2Vec,1.333333333333333
+Klärgasverstromung,UBA Wortliste,2.666666666666667
+Klärschlamm,UBA Wortliste,1.333333333333333
+Klärtechnik,UBA Wortliste,1.666666666666667
+Klärwerk,UBA Wortliste,2.0
+kleines Wasserkraftwerk,Word2Vec,3.333333333333333
+Kleinfeuerungsanlage,UBA Wortliste,2.333333333333333
+Kleingartenanlage,GermaNet,2.666666666666667
+Kleingartenkolonie,GermaNet,2.666666666666667
+Kleinkläranlage,GermaNet,2.0
+Kleinkraftwerk,UBA Wortliste,2.333333333333333
+Kleinwasserkraftwerk,Word2Vec,3.333333333333333
+Klimabilanz,Word2Vec,4.333333333333333
+klimaeffizient,UBA Wortliste,4.666666666666667
+Klimafonds,UBA Wortliste,4.333333333333333
+klimafreundlich,UBA Wortliste,4.666666666666667
+klimaneutral,UBA Wortliste,5.0
+klimaschonend,UBA Wortliste,4.666666666666667
+Klimaschutz,UBA Wortliste,5.0
+Klimaschutzkonzept,Word2Vec,5.0
+Klimaschutzmanager,Word2Vec,4.333333333333333
+Klimaschutzpolitik,GermaNet,4.666666666666667
+Klimaschutzziele,manuell ergänzt,5.0
+Klimatechnik,UBA Wortliste,2.0
+klimaverträglich,UBA Wortliste,4.666666666666667
+klimawandel,manuell ergänzt,5.0
+Kohlefaser,Word2Vec,2.0
+Kohlefaserverbundwerkstoff,GermaNet,1.0
+Kohlefilter,GermaNet,1.333333333333333
+Kohlendioxidausstoß,GermaNet,3.666666666666667
+Kohlendioxidemission,GermaNet,3.666666666666667
+Kohlenmonoxid,Word2Vec,1.0
+Kohlenstoffkreislauf,Word2Vec,3.0
+Kohlenstoff-Nanoröhre,UBA Wortliste,1.666666666666667
+Kohlenstoffquelle,Word2Vec,2.0
+Kombikraftwerk,UBA Wortliste,3.0
+Kompost,UBA Wortliste,4.0
+Kompostierung,manuell ergänzt,2.666666666666667
+Kompostierungsanlage,Word2Vec,3.333333333333333
+Kondensationskraftwerk,UBA Wortliste,2.666666666666667
+Kondensationswärme,Word2Vec,2.666666666666667
+Kondensator,UBA Wortliste,1.0
+Konzentrationszonen,Word2Vec,3.0
+Korrosionsschutz,UBA Wortliste,1.666666666666667
+Kraft-Wärme-Koppelung,GermaNet,2.666666666666667
+Kraft-Wärme-Kopplung,UBA Wortliste,2.666666666666667
+Kraft-Wärme-Kopplungsanlagen,Word2Vec,2.666666666666667
+Kreislaufwirtschaft,UBA Wortliste,4.333333333333333
+Kreuzblütengewächs,GermaNet,1.666666666666667
+Kryptogame,GermaNet,1.666666666666667
+Küchenabfall,GermaNet,1.0
+Küchenabfälle,Word2Vec,1.0
+Kühlaggregat,Word2Vec,1.0
+Kühlanlage,GermaNet,1.0
+Kühlbedarf,UBA Wortliste,1.0
+Kühlkreislauf,Word2Vec,1.333333333333333
+Kühlsystem,UBA Wortliste,1.0
+Kühlturm,UBA Wortliste,1.0
+Kühltürme,Word2Vec,1.0
+Kühlung,GermaNet,1.0
+Kühlwasseranlage,UBA Wortliste,1.0
+Kühlzelle,Word2Vec,1.0
+kultivieren,UBA Wortliste,1.666666666666667
+Kulturpflanze,GermaNet,1.666666666666667
+Kunststoffabfall,GermaNet,1.0
+Kunststofffolienkondensator,GermaNet,1.0
+Kunststoffrecycling,GermaNet,3.0
+Kurgarten,GermaNet,2.0
+Kurpark,GermaNet,2.0
+Kurzumtriebsplantage,UBA Wortliste,3.333333333333333
+Küstenschutz,UBA Wortliste,4.0
+KWK,UBA Wortliste,2.666666666666667
+Ladeinfrastruktur,UBA Wortliste,3.666666666666667
+Ladesäule,UBA Wortliste,3.333333333333333
+Ladestation,Word2Vec,3.333333333333333
+Landbau,GermaNet,1.0
+Landesbauordnung,Word2Vec,1.333333333333333
+Landespflege,Word2Vec,2.333333333333333
+Landmanagement,UBA Wortliste,2.666666666666667
+Landnutzungsplanung,UBA Wortliste,2.666666666666667
+Landnutzungswandel,UBA Wortliste,2.333333333333333
+Landpflanze,GermaNet,2.0
+Landschaftsarchitektur,Word2Vec,2.0
+Landschaftsbau,UBA Wortliste,2.666666666666667
+Landschaftsentwicklung,Word2Vec,2.0
+Landschaftsgarten,GermaNet,2.0
+Landschaftsökologie,GermaNet,4.0
+Landschaftspark,GermaNet,2.0
+Landschaftspflege,UBA Wortliste,3.0
+Landschaftsplanung,UBA Wortliste,2.666666666666667
+Landschaftsschutz,UBA Wortliste,4.0
+landschaftsverträglich,GermaNet,4.0
+Landtechnik,GermaNet,1.666666666666667
+Landwirte,Word2Vec,1.0
+Landwirtschaft,GermaNet,1.0
+Landwirtschaftsprodukt,GermaNet,1.0
+Landwirtschaftsreform,GermaNet,2.666666666666667
+längere Haltbarkeit,Word2Vec,3.0
+Langlebig,UBA Wortliste,4.0
+LANUV,Word2Vec,3.666666666666667
+Lärmbekämpfung,UBA Wortliste,2.666666666666667
+Lärmemission,GermaNet,2.0
+Lärmgrenzwerte,Word2Vec,2.0
+Lärmgutachten,Word2Vec,2.0
+Lärmmessungen,UBA Wortliste,2.666666666666667
+lärmmindernde,Word2Vec,2.0
+Lärmminderung,UBA Wortliste,2.666666666666667
+Lärmreduzierung,GermaNet,2.0
+Lärmsanierung,UBA Wortliste,2.666666666666667
+Lärmschutz,UBA Wortliste,2.666666666666667
+Lärmschutzgutachten,Word2Vec,2.0
+Lärmschutzmaßnahmen,Word2Vec,2.0
+Lärmschutzwände,Word2Vec,2.0
+Lastenrad,GermaNet,4.0
+Laubenkolonie,GermaNet,2.333333333333333
+Laufkraftwerk,Word2Vec,3.333333333333333
+Lebensmittelreste,UBA Wortliste,1.333333333333333
+Lebenszyklusanalyse,UBA Wortliste,4.0
+LED,UBA Wortliste,2.666666666666667
+LED-Lampe,Word2Vec,2.666666666666667
+LED-Leuchten,Word2Vec,2.666666666666667
+LED-Technik,Word2Vec,2.666666666666667
+Leergut,GermaNet,2.0
+Leichtbau,UBA Wortliste,3.0
+Leichtbautechnologien,UBA Wortliste,3.0
+Leichtbauweise,GermaNet,3.0
+Leichtlaufreifen,UBA Wortliste,2.333333333333333
+Leichtverpackungen,Word2Vec,2.0
+Leihfahrrad,GermaNet,3.0
+Leihrad,GermaNet,3.0
+Leihwagen,Word2Vec,2.0
+Lein,GermaNet,2.666666666666667
+Leitungssystem,Word2Vec,1.0
+Leuchtdiode,GermaNet,2.666666666666667
+Liegerad,GermaNet,2.666666666666667
+Linearmotor,GermaNet,3.333333333333333
+Lithium-Ionen-Akku,Word2Vec,3.333333333333333
+Lithium-Ionen-Batterie,UBA Wortliste,3.333333333333333
+Löschwassertank,UBA Wortliste,1.0
+Löschwasserversorgung,Word2Vec,1.666666666666667
+Luftentkeimung,UBA Wortliste,2.333333333333333
+Luftfilter,Word2Vec,2.333333333333333
+Luftkondensator,GermaNet,1.0
+Luftmessungen,Word2Vec,3.0
+Luftreinhaltung,UBA Wortliste,3.333333333333333
+Lüftungsanlagen,Word2Vec,1.0
+Lüftungstechnik,UBA Wortliste,1.333333333333333
+Makulatur,GermaNet,1.0
+Maschinenbauerzeugnisse,UBA Wortliste,1.0
+materialeffizient,UBA Wortliste,4.0
+Materialeffizienz,UBA Wortliste,4.0
+Materialeinsparung,UBA Wortliste,4.333333333333333
+Materialkosteneinsparung,UBA Wortliste,3.0
+Materialproduktivität,UBA Wortliste,3.0
+Materialprüfung,Word2Vec,1.666666666666667
+Materialwissenschaft,Word2Vec,1.333333333333333
+meeresbiologisch,GermaNet,1.0
+Meeresenergie,UBA Wortliste,4.0
+Meeresfauna,GermaNet,3.0
+Meerespflanze,GermaNet,2.0
+Meeresströmungskraftwerk,UBA Wortliste,3.666666666666667
+Meeresumwelt,Word2Vec,3.666666666666667
+Meeresverschmutzung,UBA Wortliste,4.666666666666667
+Meereswärmekraftwerk,UBA Wortliste,3.666666666666667
+Meerwasserentsalzung,UBA Wortliste,2.0
+Megafauna,GermaNet,3.0
+Mehrfachsolarzelle,manuell ergänzt,4.0
+Mehrfachverwendung,GermaNet,4.0
+Mehrfachzelle,UBA Wortliste,4.0
+Mehrstufen-Entspannungsverdampfung,UBA Wortliste,2.333333333333333
+Mehrstufen-Entspannungs-Verdampfung,manuell ergänzt,2.333333333333333
+Mehrweg,UBA Wortliste,4.0
+Membran-Aufbereitungsanlage,UBA Wortliste,1.666666666666667
+Membranelektrolyse ,UBA Wortliste,1.666666666666667
+Membranfiltertechnik,UBA Wortliste,1.666666666666667
+Membrantechnologie,UBA Wortliste,1.666666666666667
+Membran-Verfahren,UBA Wortliste,1.666666666666667
+Messgasaufbereitung,UBA Wortliste,1.666666666666667
+Messtechnik,UBA Wortliste,1.0
+Metallschrott,GermaNet,1.0
+Metallspäne,UBA Wortliste,1.0
+Methangas,Word2Vec,1.333333333333333
+Methanisierung,Word2Vec,2.0
+Micro Grid,manuell ergänzt,2.666666666666667
+Mietauto,Word2Vec,2.0
+Mietwagen,Word2Vec,2.0
+Mikroheizkraftwerk,UBA Wortliste,3.333333333333333
+Mikro-Stromnetz,UBA Wortliste,3.666666666666667
+Mineralwolle,Word2Vec,2.333333333333333
+Miniheizkraftwerk,UBA Wortliste,3.666666666666667
+Miscanthus,UBA Wortliste,3.0
+Mischabfälle,UBA Wortliste,1.0
+Mitfahrgelegenheit,UBA Wortliste,3.333333333333333
+Mitfahrzentralen,Word2Vec,2.333333333333333
+Mobilitätsdienstleister,UBA Wortliste,2.0
+Mobilitätsdienstleistungen,UBA Wortliste,2.0
+Mobilitätskonzept,UBA Wortliste,3.0
+Mountainbike,Word2Vec,2.0
+MSR,UBA Wortliste,1.0
+Mulchen,Word2Vec,2.0
+Müll,GermaNet,1.0
+Müllabfuhr,GermaNet,1.333333333333333
+Müllabladeplatz,GermaNet,1.0
+Müllbeseitigung,GermaNet,2.0
+Mülldeponie,GermaNet,1.0
+Müllentsorgung,GermaNet,2.0
+Müllfahrzeug,Word2Vec,1.333333333333333
+Müllhalde,GermaNet,1.0
+Müllkippe,GermaNet,1.0
+Müllplatz,GermaNet,1.0
+Müllsack,UBA Wortliste,1.333333333333333
+Müllsäcke,UBA Wortliste,1.333333333333333
+Müllsortierung,GermaNet,2.0
+Mülltonne,Word2Vec,1.333333333333333
+Mülltransport,UBA Wortliste,1.333333333333333
+Mülltrennung,GermaNet,2.0
+Mülltüte,Word2Vec,1.666666666666667
+Müllumladestation,UBA Wortliste,1.0
+Müllverbrennung,UBA Wortliste,1.333333333333333
+Müllverbrennungsanlage,Word2Vec,1.0
+Müllvermeidung,UBA Wortliste,4.0
+Müllwagen,Word2Vec,1.333333333333333
+Multispektralzelle,UBA Wortliste,3.666666666666667
+Multi-Stage-Flash,manuell ergänzt,2.333333333333333
+Munitionsbeseitigung,UBA Wortliste,1.666666666666667
+Mutterpflanze,GermaNet,1.666666666666667
+Nachfolgenutzung,Word2Vec,3.0
+nachhaltige Bewirtschaftung,Word2Vec,4.0
+nachhaltige Energieversorgung,Word2Vec,4.0
+nachhaltige Landwirtschaft,Word2Vec,4.0
+nachhaltige Mobilität,Word2Vec,3.333333333333333
+nachhaltigen Tourismus,Word2Vec,4.0
+nachhaltiges Handeln,Word2Vec,4.333333333333333
+nachhaltiges Wirtschaften,Word2Vec,3.666666666666667
+Nachhaltigkeit,Word2Vec,4.666666666666667
+Nachhaltigkeitsanalyse,UBA Wortliste,4.333333333333333
+Nachhaltigkeitsmanagement,UBA Wortliste,4.666666666666667
+Nachnutzung,Word2Vec,3.0
+Nachtspeicherheizung,Word2Vec,1.666666666666667
+nachwachsend,UBA Wortliste,4.333333333333333
+nachwachsender Rohstoff,Word2Vec,4.0
+Nadelholzgewächs,GermaNet,1.666666666666667
+Nagios,Word2Vec,1.666666666666667
+Naherholungsgebiet,Word2Vec,3.0
+Nahrungsnetzanalyse,UBA Wortliste,3.0
+Nahwärme,Word2Vec,2.0
+Nahwärmenetze,UBA Wortliste,2.333333333333333
+nanoskalige Materialien,UBA Wortliste,1.0
+Nanotechnik,Word2Vec,1.0
+Nanotechnologie,UBA Wortliste,1.0
+Nationalpark,GermaNet,3.0
+Naturdämmstoffe,UBA Wortliste,3.0
+Naturfasern,manuell ergänzt,2.666666666666667
+naturfaserverstärkte Kunststoffe,UBA Wortliste,2.666666666666667
+Naturhaushalt,GermaNet,4.0
+Naturkosmetik,UBA Wortliste,3.0
+Naturkosmetikartikel,GermaNet,3.0
+Naturkosthandel,UBA Wortliste,3.666666666666667
+Naturkostladen,UBA Wortliste,3.666666666666667
+Naturland,UBA Wortliste,4.0
+natürliche Ressourcen,UBA Wortliste,4.333333333333333
+Naturpark,GermaNet,3.666666666666667
+Naturressourcen,Word2Vec,3.666666666666667
+Naturschutz,UBA Wortliste,5.0
+Naturschutzbehörde,GermaNet,4.666666666666667
+Naturschutzbund,GermaNet,4.666666666666667
+Naturschützer,GermaNet,4.666666666666667
+Naturschützerin,GermaNet,4.666666666666667
+Naturschutzgebiet,Word2Vec,4.333333333333333
+Naturschutzgesetz,GermaNet,4.333333333333333
+Naturschutzmaßnahmen,Word2Vec,5.0
+Naturschutzpark,GermaNet,4.333333333333333
+Naturschutzverband,GermaNet,4.666666666666667
+Naturschutzverbund,GermaNet,4.666666666666667
+Naturstrom,UBA Wortliste,4.333333333333333
+Naturtourismus,Word2Vec,4.0
+naturverträglich,GermaNet,4.666666666666667
+Nebenerwerbslandwirtschaft,GermaNet,1.0
+Neophyt,GermaNet,1.666666666666667
+Netzanbindung,UBA Wortliste,1.0
+Netzanschluss,Word2Vec,1.0
+Netzausbau,UBA Wortliste,1.0
+Netzentwicklung,UBA Wortliste,1.0
+Netzerweiterung,GermaNet,1.0
+Netzinfrastruktur,UBA Wortliste,1.0
+Netzqualität,Word2Vec,1.0
+Netzstabilität,Word2Vec,1.333333333333333
+neuartige Sanitärsysteme,UBA Wortliste,3.333333333333333
+Neunutzung,Word2Vec,1.333333333333333
+nicht-fossile Materie,UBA Wortliste,4.333333333333333
+niederenergetisch,GermaNet,2.333333333333333
+Niederschlagswasser,Word2Vec,2.0
+Niedrigenergiehaus,Word2Vec,3.666666666666667
+Niedrigenergiehäuser,UBA Wortliste,3.666666666666667
+Nitrifikation,Word2Vec,2.333333333333333
+Null-Energiehaus,UBA Wortliste,4.0
+Nutzbremse,Word2Vec,3.0
+Nutzung Abwärme,Word2Vec,3.333333333333333
+Nutzungsgrad,Word2Vec,2.0
+Oberflächenwasser,Word2Vec,1.333333333333333
+Oberflächenwasserschutz,UBA Wortliste,3.666666666666667
+Oberleitungsbus,UBA Wortliste,3.0
+Oberleitungsbusbetrieb,Word2Vec,3.0
+Oberleitungsbus-Betrieb,Word2Vec,3.0
+Obstbau,Word2Vec,1.666666666666667
+Obusbetrieb,Word2Vec,3.0
+Obus-Betrieb,Word2Vec,3.0
+offenporiger Asphalt,UBA Wortliste,1.666666666666667
+öffentlicher Nahverkehr,Word2Vec,2.666666666666667
+öffentlicher Personennahverkehr,UBA Wortliste,2.666666666666667
+Offshore,UBA Wortliste,3.333333333333333
+Offshore-Anlagen,Word2Vec,3.333333333333333
+Offshorewindpark,GermaNet,3.333333333333333
+Offshore-Windparks,Word2Vec,3.333333333333333
+Ökobewegung,UBA Wortliste,4.666666666666667
+Ökobilanz,manuell ergänzt,4.333333333333333
+Ökodesign,UBA Wortliste,4.0
+Ökoenergie,Word2Vec,4.0
+Ökolandbau,UBA Wortliste,4.0
+öko-Landbau,Word2Vec,4.0
+ökolog.,UBA Wortliste,4.0
+Ökologie,UBA Wortliste,4.666666666666667
+Ökologin,GermaNet,4.0
+ökologisch,UBA Wortliste,4.666666666666667
+ökologisch sinnvoll,Word2Vec,4.666666666666667
+ökologische Gleichgewicht,Word2Vec,4.0
+ökologische Landwirtschaft,Word2Vec,4.0
+ökologische Nachhaltigkeit,Word2Vec,4.666666666666667
+ökologischer Landbau,Word2Vec,4.0
+Ökopflaster,manuell ergänzt,3.666666666666667
+Öko-Pflaster,UBA Wortliste,3.666666666666667
+Ökosolar,UBA Wortliste,4.0
+Öko-Solar,manuell ergänzt,4.0
+Ökostrom,UBA Wortliste,4.333333333333333
+Ökostrom-Foerderung,Word2Vec,4.0
+Ökosystem,UBA Wortliste,4.0
+ökosystemare Dienstleistung,UBA Wortliste,4.0
+Ökosystemdienstleistung,UBA Wortliste,4.0
+Ökosystemforschung,Word2Vec,3.333333333333333
+Ökosystemleistung,manuell ergänzt,4.0
+Ökotourismus,UBA Wortliste,4.0
+Öko-Tourismus,manuell ergänzt,4.0
+Ölabsorber,manuell ergänzt,1.333333333333333
+Öl-Absorber,manuell ergänzt,1.333333333333333
+Ölaufsaugmittel,UBA Wortliste,1.666666666666667
+Ölbindemittel,manuell ergänzt,1.666666666666667
+OLED,manuell ergänzt,3.0
+Ölfilter,UBA Wortliste,1.333333333333333
+Ölverschmutzungen,Word2Vec,3.0
+on-board Ladetechnik,UBA Wortliste,3.333333333333333
+Onshore,UBA Wortliste,3.333333333333333
+öpnv,UBA Wortliste,2.666666666666667
+ORC-Prozess,manuell ergänzt,2.666666666666667
+ORC-Technologie,UBA Wortliste,2.666666666666667
+organic LED,manuell ergänzt,3.0
+organic light emitted diode,UBA Wortliste,3.0
+organic light-emitted diode,manuell ergänzt,3.0
+Organic Rankine Cycle,manuell ergänzt,2.666666666666667
+Organic-Rankine-Cycle,UBA Wortliste,2.666666666666667
+Osmosekraftwerk,UBA Wortliste,3.333333333333333
+Ozongenerator,UBA Wortliste,2.333333333333333
+Ozonierung,UBA Wortliste,2.333333333333333
+Ozonklimagenerator,UBA Wortliste,2.666666666666667
+P2G,UBA Wortliste,2.0
+Papiermüll,Word2Vec,1.333333333333333
+Parabolrinnenkollektor,UBA Wortliste,4.0
+Parabolrinnen-Kollektor,manuell ergänzt,4.0
+Park-and-Ride-Konzept,UBA Wortliste,2.666666666666667
+Parkanlage,UBA Wortliste,2.333333333333333
+Parkraumkonzept,Word2Vec,1.666666666666667
+Partikelfilter,UBA Wortliste,2.333333333333333
+Passivhaus,UBA Wortliste,3.666666666666667
+Passivhäuser,UBA Wortliste,3.666666666666667
+Passivhausstandard,Word2Vec,3.666666666666667
+Passivierung,GermaNet,1.666666666666667
+Pedelecs,UBA Wortliste,3.333333333333333
+Pellet,UBA Wortliste,2.666666666666667
+Pelletheizungen,Word2Vec,2.666666666666667
+Pelletsheizung,Word2Vec,2.666666666666667
+Pfandsystem,Word2Vec,3.666666666666667
+Pflanze,UBA Wortliste,2.666666666666667
+Pflanzengeografie,GermaNet,1.333333333333333
+Pflanzengeographie,GermaNet,1.333333333333333
+Pflanzenkläranlage,GermaNet,2.333333333333333
+Pflanzenschutz,Word2Vec,2.0
+Pflanzensoziologie,GermaNet,3.0
+pflanzenverträglich,GermaNet,4.0
+pH-Messgerät,UBA Wortliste,2.0
+Photonenenergie,Word2Vec,3.666666666666667
+Photonik,Word2Vec,1.333333333333333
+Photovoltaik,UBA Wortliste,4.0
+Photovoltaikanlage,GermaNet,4.0
+Photovoltaik-Anlage,Word2Vec,4.0
+Phytopathologie,Word2Vec,1.666666666666667
+Pinchanalyse,UBA Wortliste,3.333333333333333
+Pinch-Analyse,manuell ergänzt,3.333333333333333
+Pionierpflanze,GermaNet,1.666666666666667
+Plantagenwirtschaft,GermaNet,1.0
+Plastikmüll,GermaNet,1.0
+Plastiksack,Word2Vec,1.0
+Plastiksäcke,Word2Vec,1.0
+Plastiktüte,Word2Vec,1.0
+Plattenkondensator,GermaNet,1.0
+Plug-In Hybrid,manuell ergänzt,3.333333333333333
+Plug-in-Hybrid,UBA Wortliste,3.333333333333333
+Plug-in-Hybridantrieb,Word2Vec,3.333333333333333
+Plusenergiehaus,Word2Vec,3.666666666666667
+Plus-Energie-Haus,UBA Wortliste,3.666666666666667
+Polsterpflanze,GermaNet,1.666666666666667
+Polyethylen,UBA Wortliste,1.0
+Polylactid,UBA Wortliste,1.666666666666667
+Polypropylen,UBA Wortliste,1.0
+Power-to-Gas,UBA Wortliste,2.0
+Power-to-Heat ,UBA Wortliste,3.0
+Power-to-Liquid,UBA Wortliste,3.0
+PP,GermaNet,1.0
+Primärenergiebedarf,GermaNet,1.666666666666667
+Produktionsabfall,GermaNet,1.0
+Produktverantwortung,UBA Wortliste,3.333333333333333
+Prozessdampf,Word2Vec,1.0
+Prozessleittechnik,UBA Wortliste,1.0
+Prozessmanagement,Word2Vec,1.333333333333333
+Prozessoptimierung,UBA Wortliste,1.0
+Prozesstechnik,Word2Vec,1.0
+Prozesswärme,Word2Vec,3.666666666666667
+Prozesswasser,UBA Wortliste,1.0
+Pufferspeicher,Word2Vec,1.0
+Pumpensysteme,UBA Wortliste,1.0
+Pumpspeicher,Word2Vec,3.0
+Pumpspeicherkraftwerke,UBA Wortliste,3.0
+Pumpspeicherung,UBA Wortliste,3.666666666666667
+Pumpspeicherwerk,GermaNet,3.0
+PV-Anlage,UBA Wortliste,4.0
+PV-Stromerzeugungsanlage,UBA Wortliste,4.0
+Quicar,UBA Wortliste,3.333333333333333
+Radfahren,GermaNet,3.666666666666667
+Radfahrt,GermaNet,3.666666666666667
+Radverkehrskonzept,Word2Vec,3.666666666666667
+Radwege,Word2Vec,3.333333333333333
+Radwegekonzept,Word2Vec,3.666666666666667
+Range-Extender,Word2Vec,2.0
+Rankpflanze,GermaNet,1.666666666666667
+Rasenfläche,Word2Vec,2.666666666666667
+Rauchfangkehrer,GermaNet,1.0
+Rauchfangkehrerin,GermaNet,1.0
+Rauchgas,UBA Wortliste,1.0
+Rauchgasentschwefelung,UBA Wortliste,1.666666666666667
+Rauchgasreinigung,Word2Vec,1.666666666666667
+Raumentwicklung,Word2Vec,1.666666666666667
+Raupenfutterpflanze,GermaNet,1.666666666666667
+Rebbau,GermaNet,1.0
+Recyceln,Word2Vec,4.0
+Recycler,UBA Wortliste,4.0
+Recycling,UBA Wortliste,4.0
+Recyclinganlage,Word2Vec,3.666666666666667
+Recyclinghof,Word2Vec,3.333333333333333
+Recyclingmaterial,Word2Vec,3.666666666666667
+Reformhaus,UBA Wortliste,3.666666666666667
+Reformhäuser,UBA Wortliste,3.666666666666667
+Regeltechnik,UBA Wortliste,1.0
+Regelungstechnik,GermaNet,1.0
+Regelungstechnologien für Anlagen,UBA Wortliste,1.0
+Regelungstechnologien für Netze,UBA Wortliste,1.0
+Regelventil,UBA Wortliste,1.666666666666667
+regenerativ,UBA Wortliste,4.333333333333333
+Regenerative Energien,Word2Vec,4.0
+regenerativen Quellen,Word2Vec,4.0
+Regenerator,GermaNet,2.0
+Regenerierungsanlage,UBA Wortliste,2.0
+Regenrückhaltebecken,Word2Vec,2.333333333333333
+Regenüberlaufbecken,Word2Vec,2.0
+Regenwasser,Word2Vec,3.333333333333333
+Regenwasseraufbereitung,UBA Wortliste,3.0
+Regenwasserbehandlung,UBA Wortliste,3.0
+Regenwassernutzung,GermaNet,3.0
+Regenwassersammelsystem,UBA Wortliste,3.333333333333333
+regionale Wertschöpfung,Word2Vec,3.666666666666667
+Regionalpark,GermaNet,3.333333333333333
+regulierende Dienstleistungen,UBA Wortliste,2.0
+Reinigungstechnik,UBA Wortliste,1.666666666666667
+Reiserad,GermaNet,2.666666666666667
+Rekultivierung,UBA Wortliste,4.0
+Rekuperation,UBA Wortliste,3.0
+Rekuperationsbremse,Word2Vec,3.0
+Rekuperatoren,UBA Wortliste,4.0
+Renaturierung,UBA Wortliste,4.0
+Renaturierungsmassnahmen,Word2Vec,4.0
+Rennmaschine,GermaNet,2.0
+Rennrad,GermaNet,2.666666666666667
+Reparatur,UBA Wortliste,2.666666666666667
+Repowering,UBA Wortliste,3.333333333333333
+Reservekraftwerke,Word2Vec,1.666666666666667
+Ressourcen schonen,Word2Vec,4.666666666666667
+Ressourcenbündel,UBA Wortliste,1.0
+Ressourceneffizienz,UBA Wortliste,4.666666666666667
+Ressourceneinsatz,Word2Vec,3.333333333333333
+Ressourceneinsparung,UBA Wortliste,4.666666666666667
+Ressourcenknappheit,UBA Wortliste,4.666666666666667
+Ressourcenmanagement,UBA Wortliste,4.333333333333333
+Ressourcenmangel,GermaNet,4.666666666666667
+Ressourcennutzung,Word2Vec,4.0
+ressourcenschonend,UBA Wortliste,4.666666666666667
+Ressourcenschonung,UBA Wortliste,4.666666666666667
+Ressourcenschutz,UBA Wortliste,4.666666666666667
+Ressourcenverbrauch,UBA Wortliste,4.666666666666667
+Restabfall,GermaNet,1.0
+Resteverwertung,GermaNet,2.666666666666667
+Restholz,Word2Vec,1.0
+Restmüll,GermaNet,1.0
+Reststoffen,Word2Vec,2.0
+Reststoffverwertung,UBA Wortliste,4.0
+Revierpark,GermaNet,2.0
+Revitalisierung,UBA Wortliste,2.666666666666667
+Riffgat,Word2Vec,3.0
+Rohrleitungsbau-Handwerk,UBA Wortliste,1.0
+Rohstoffeffizienz,UBA Wortliste,4.333333333333333
+Rohstoffkonzept,UBA Wortliste,4.0
+rohstoffliche Verwertung,UBA Wortliste,3.666666666666667
+Rohstoffrückgewinnung,UBA Wortliste,4.666666666666667
+Rostschutz,Word2Vec,1.0
+Rückbau,UBA Wortliste,1.666666666666667
+Rückbauarbeiten,Word2Vec,1.666666666666667
+Rückstandverwertung,GermaNet,2.666666666666667
+Rußfilter,GermaNet,1.666666666666667
+Rußpartikelfilter,UBA Wortliste,2.333333333333333
+Saatlein,GermaNet,2.666666666666667
+Salzpflanze,GermaNet,1.666666666666667
+Samenpflanze,GermaNet,1.666666666666667
+Sämling,GermaNet,1.666666666666667
+Sandaufbereitung,UBA Wortliste,3.0
+Sandfilter,UBA Wortliste,1.666666666666667
+Sandwichbauweise,GermaNet,2.0
+Sandwich-Bauweise,manuell ergänzt,2.0
+Sandwichkonstruktion,UBA Wortliste,2.0
+Sanierung,Word2Vec,2.0
+saubere Energie,Word2Vec,4.0
+Sauerstoffverzehrkathode,manuell ergänzt,2.0
+Sauerstoff-Verzehrkathode,manuell ergänzt,2.0
+Sauerstoffverzehrkathodentechnologie,manuell ergänzt,2.0
+Schädlingsbekämpfung,UBA Wortliste,1.333333333333333
+Schadstoff,manuell ergänzt,2.66666666666667
+Schadstoffanalytik,UBA Wortliste,3.0
+Schadstoffausstoß,GermaNet,3.666666666666667
+Schadstoffbestimmung,UBA Wortliste,3.0
+Schadstoffemission,GermaNet,3.666666666666667
+Schadstofferfassung,UBA Wortliste,2.666666666666667
+Schadstoffreduktion,UBA Wortliste,4.333333333333333
+Schadstoffreduzierung,UBA Wortliste,4.333333333333333
+Schalldämm-Textilien,UBA Wortliste,2.0
+Schalldämmung,UBA Wortliste,2.666666666666667
+Schalldämpfer,UBA Wortliste,2.333333333333333
+Schallemission,GermaNet,2.666666666666667
+schallgeschützt,UBA Wortliste,2.333333333333333
+Schallgutachten,Word2Vec,2.333333333333333
+Schallmessgerät,UBA Wortliste,1.333333333333333
+Schallpegelmesser,UBA Wortliste,1.333333333333333
+Schallschleuse,UBA Wortliste,2.0
+Schallschutz,UBA Wortliste,2.666666666666667
+Schallschutzfenster,Word2Vec,1.666666666666667
+Schallschutzgutachten,Word2Vec,2.333333333333333
+Schallschutzmassnahmen,Word2Vec,1.666666666666667
+Schiefergas,Word2Vec,1.333333333333333
+Schienenfahrzeug,UBA Wortliste,1.333333333333333
+Schlachtabfall,GermaNet,1.0
+Schlachtabfälle,Word2Vec,1.0
+Schlammbehandlung,UBA Wortliste,1.0
+Schlammverwertung,UBA Wortliste,2.333333333333333
+Schlingpflanze,GermaNet,1.666666666666667
+Schmarotzerpflanze,GermaNet,1.666666666666667
+Schmutzwasser,GermaNet,1.333333333333333
+Schnelladestationen,UBA Wortliste,3.666666666666667
+schnelleres Aufladen,UBA Wortliste,2.333333333333333
+Schnellladestation,UBA Wortliste,3.666666666666667
+Schornsteinfeger,UBA Wortliste,1.0
+Schornsteinfegerin,GermaNet,1.0
+Schrott,GermaNet,1.0
+Schrottplatz,GermaNet,1.0
+Schubbetrieb,Word2Vec,1.0
+Schuttabladeplatz,GermaNet,1.0
+Schuttplatz,GermaNet,1.0
+Schutzschichten,Word2Vec,2.333333333333333
+Schwarmkraftwerk,manuell ergänzt,3.333333333333333
+Schwingungsdämpfer,UBA Wortliste,1.333333333333333
+Schwingungsisolierer,UBA Wortliste,2.0
+Schwungspeicherung,UBA Wortliste,2.333333333333333
+Second hand,UBA Wortliste,3.666666666666667
+Sektorenkopplung,manuell ergänzt,3.0
+Sektorkopplung,UBA Wortliste,3.0
+Sekundärrohstoff,GermaNet,2.333333333333333
+Sekundärrohstoffhandel,UBA Wortliste,3.666666666666667
+Sickerwasser,UBA Wortliste,1.333333333333333
+Siebmaschine,UBA Wortliste,1.0
+Siedlungsabfall,GermaNet,1.0
+Siedlungswasserwirtschaft,UBA Wortliste,1.666666666666667
+Silphie,Word2Vec,2.0
+Smart Buildings,UBA Wortliste,3.333333333333333
+Smart City,UBA Wortliste,3.333333333333333
+Smart Factories,UBA Wortliste,3.333333333333333
+Smart Grid,UBA Wortliste,3.666666666666667
+Smart Home,UBA Wortliste,2.666666666666667
+Sojaöl,Word2Vec,2.0
+Solar-,Word2Vec,4.0
+Solar Energy,Word2Vec,4.0
+Solaranlage,UBA Wortliste,4.0
+Solar-Automotive-Produktion,UBA Wortliste,4.0
+Solarberater,UBA Wortliste,4.0
+Solarbereich,UBA Wortliste,4.0
+Solarcarport,UBA Wortliste,4.0
+solare Kühlung,UBA Wortliste,4.0
+Solarenergie,UBA Wortliste,4.0
+Solarenergiegüter,UBA Wortliste,4.0
+Solarfahrzeug,GermaNet,4.0
+Solarglasherstellung,UBA Wortliste,4.0
+Solar-Großkraftwerk,UBA Wortliste,4.0
+Solarhelfer,UBA Wortliste,4.0
+Solarinstallation,UBA Wortliste,4.0
+Solarinverter,UBA Wortliste,4.0
+Solarkraftwerk,UBA Wortliste,4.0
+Solarmobil,GermaNet,4.0
+Solarmodul,UBA Wortliste,4.0
+Solarmontage,UBA Wortliste,4.0
+Solar-Monteur,UBA Wortliste,4.0
+Solarpanel,GermaNet,4.0
+Solarpark,UBA Wortliste,4.0
+Solarplatte,UBA Wortliste,4.0
+Solarstrom,Word2Vec,4.0
+Solarstromanlage,GermaNet,4.0
+Solartechnik,UBA Wortliste,4.0
+Solartechnologie,GermaNet,4.0
+Solarthermie,UBA Wortliste,4.0
+Solarthermieanlage,Word2Vec,4.0
+solarthermisch,UBA Wortliste,4.0
+Solarwärmeanlage,UBA Wortliste,4.0
+Solarwechselrichter,UBA Wortliste,4.0
+Solarwirtschaft,Word2Vec,4.0
+Solarzelle,UBA Wortliste,4.0
+Sonderabfall,GermaNet,1.333333333333333
+Sonderabfälle,Word2Vec,1.333333333333333
+Sondermüll,GermaNet,1.333333333333333
+Sondersiebtechnik,UBA Wortliste,2.0
+Sonnenenergie,UBA Wortliste,4.0
+Sonnenstrom,Word2Vec,4.0
+Sortieranlage,UBA Wortliste,2.333333333333333
+Sortiertechnik,UBA Wortliste,2.333333333333333
+Sozialökologie,GermaNet,3.666666666666667
+Spaltpflanze,GermaNet,1.666666666666667
+Speicherfähigkeit,Word2Vec,2.666666666666667
+Speicherkraftwerk,UBA Wortliste,3.333333333333333
+Speichertechnik,Word2Vec,3.0
+Speichertechnologie,UBA Wortliste,3.0
+Speisereste,UBA Wortliste,1.333333333333333
+Sperrmüll,UBA Wortliste,1.666666666666667
+Sporenpflanze,GermaNet,1.666666666666667
+spritarm,UBA Wortliste,3.666666666666667
+spritsparenden,Word2Vec,3.666666666666667
+Spritzmittel,Word2Vec,1.0
+Spurenstoffelimination,UBA Wortliste,2.0
+Stadtentwicklungskonzept,Word2Vec,2.666666666666667
+Stadtgarten,GermaNet,2.333333333333333
+Stadtpark,GermaNet,2.333333333333333
+Stahlschrott,GermaNet,1.0
+Standby-Optimierung,UBA Wortliste,3.666666666666667
+Stapelsolarzelle,manuell ergänzt,4.0
+Start-Stop-Automatik,UBA Wortliste,3.666666666666667
+Start-Stopp-Automatik,Word2Vec,3.333333333333333
+Start-Stopp-Funktion,Word2Vec,3.0
+Start-Stopp-System,Word2Vec,3.0
+Stauanlagen,Word2Vec,2.333333333333333
+Staubfilter,GermaNet,1.666666666666667
+Staubmessung,UBA Wortliste,2.0
+Staudämme,UBA Wortliste,2.333333333333333
+Staumauern,Word2Vec,2.333333333333333
+Stauseen,Word2Vec,2.666666666666667
+Steinwolle,Word2Vec,2.333333333333333
+Steuertechnik,UBA Wortliste,1.0
+Steuerungstechnik,Word2Vec,1.0
+Stickoxidemission,GermaNet,3.666666666666667
+Stickstoffquelle,Word2Vec,2.0
+Stoffkreislauf,UBA Wortliste,3.666666666666667
+stofflicher Verwertung,UBA Wortliste,3.333333333333333
+Stoffstrommanagement,UBA Wortliste,3.333333333333333
+Stofftrennung,UBA Wortliste,2.0
+Strahlungsenergie,UBA Wortliste,3.666666666666667
+Strahlungsmessgerät,UBA Wortliste,3.0
+Straßenbäumen,Word2Vec,2.666666666666667
+Straßenbegleitgrün,UBA Wortliste,2.666666666666667
+Straßenreinigung,UBA Wortliste,2.0
+Straßensanierung,Word2Vec,1.0
+strombasierte neue Verfahren,UBA Wortliste,3.333333333333333
+Strombedarf,GermaNet,1.666666666666667
+Stromgeneratoren,Word2Vec,1.0
+Strommix,UBA Wortliste,3.333333333333333
+Stromspar-Check,UBA Wortliste,4.0
+stromsparend,UBA Wortliste,4.0
+Stromsparprojekt,UBA Wortliste,4.0
+Stromspeicher,Word2Vec,3.0
+Stromspeicherung,Word2Vec,3.0
+Stromtanken,UBA Wortliste,3.666666666666667
+Stromtankstelle,UBA Wortliste,3.666666666666667
+Strömungsenergie,UBA Wortliste,3.666666666666667
+Stromverbrauch,UBA Wortliste,2.666666666666667
+Sturmschutz,UBA Wortliste,2.333333333333333
+Sukkulente,GermaNet,1.666666666666667
+Süßwasserschutz,UBA Wortliste,3.666666666666667
+Sustainable Business,UBA Wortliste,4.333333333333333
+Sustainable Supply Chain,manuell ergänzt,4.0
+Tag-Nacht-Speicher,UBA Wortliste,2.333333333333333
+Tailored blanks,UBA Wortliste,2.0
+Talsperren,Word2Vec,2.666666666666667
+Tandem,GermaNet,2.666666666666667
+Tandemzelle,UBA Wortliste,4.0
+Taschenfilter,UBA Wortliste,1.0
+Technikanalyse,UBA Wortliste,1.0
+Tempomessungen,Word2Vec,3.0
+Temporeduzierung,Word2Vec,1.666666666666667
+thermische Isolierung,UBA Wortliste,2.666666666666667
+thermischen Leistung,Word2Vec,2.333333333333333
+Thermografie,UBA Wortliste,3.0
+Thermographie,GermaNet,3.0
+Thin Clients,UBA Wortliste,1.666666666666667
+Tieftemperaturprotease,UBA Wortliste,1.0
+Tiergarten,GermaNet,1.333333333333333
+Tiergesundheitsmanagement,UBA Wortliste,2.666666666666667
+Tierkörperbeseitigung,UBA Wortliste,2.0
+Tierökologie,Word2Vec,3.666666666666667
+Tierpark,GermaNet,1.333333333333333
+Tierreich,GermaNet,3.0
+Tierschutz,UBA Wortliste,4.0
+Tierschutzbund,Word2Vec,4.0
+Tierschützer,GermaNet,4.0
+Tierschützerin,GermaNet,4.0
+Tierschutzgesetz,GermaNet,4.0
+Tierseuchenbekämpfung,UBA Wortliste,2.666666666666667
+Tierwelt,GermaNet,3.333333333333333
+Tierwohl,Word2Vec,4.333333333333333
+Tourenrad,GermaNet,2.666666666666667
+Traktionsbatterie,Word2Vec,3.0
+Treibhausgasaustoßminderung,UBA Wortliste,4.666666666666667
+Treibhausgasemission,GermaNet,3.666666666666667
+Treibhausgasminderung,UBA Wortliste,4.666666666666667
+Treibhausgas-Minderungspotential,UBA Wortliste,4.333333333333333
+Treibhausgasreduktion,UBA Wortliste,4.666666666666667
+treibhausgasreduzierend ,UBA Wortliste,4.666666666666667
+Treibhausgasvermeidung,UBA Wortliste,4.666666666666667
+treibhausreduziert,UBA Wortliste,4.666666666666667
+Trekkingrad,GermaNet,2.666666666666667
+Trimmer,GermaNet,1.0
+Trinkwasseraufbereitung,UBA Wortliste,3.0
+Trinkwassergewinnung,GermaNet,2.666666666666667
+Trinkwasserhygienesystem,UBA Wortliste,2.333333333333333
+Trinkwasserschutz,GermaNet,3.666666666666667
+Tripelzelle,manuell ergänzt,4.0
+Trittschalldämmung,GermaNet,1.666666666666667
+Trockenbiotop,GermaNet,3.0
+Trockenlegung,GermaNet,1.0
+Tümpel,Word2Vec,2.0
+Twizy,Word2Vec,3.333333333333333
+Überfischung,Word2Vec,4.0
+Uferfiltrat,Word2Vec,2.666666666666667
+Ultrafiltration,UBA Wortliste,2.666666666666667
+Ultraschallzähler,UBA Wortliste,1.0
+Umgebungsluft,Word2Vec,1.666666666666667
+Umkehrosmose,UBA Wortliste,1.0
+Umspannwerke,UBA Wortliste,1.0
+Umwälzpumpe,UBA Wortliste,1.0
+Umwelt,Word2Vec,4.333333333333333
+Umweltaktivist,GermaNet,4.333333333333333
+Umweltaktivistin,GermaNet,4.333333333333333
+Umweltberatung,UBA Wortliste,4.666666666666667
+Umweltberichterstattung,UBA Wortliste,4.333333333333333
+Umweltbetriebsprüfung,UBA Wortliste,4.333333333333333
+Umweltbewusstsein,UBA Wortliste,4.666666666666667
+Umweltbilanz,UBA Wortliste,4.666666666666667
+Umweltbildung,UBA Wortliste,4.666666666666667
+Umweltchemie,Word2Vec,3.0
+Umweltcontrolling,UBA Wortliste,4.666666666666667
+Umweltdienstleistungen,UBA Wortliste,4.666666666666667
+Umwelterziehung,Word2Vec,4.0
+umweltfreundlich,UBA Wortliste,4.666666666666667
+umweltgerecht,UBA Wortliste,4.666666666666667
+Umweltgutachten,UBA Wortliste,4.666666666666667
+Umwelthygiene,GermaNet,4.0
+Umweltinformationssystem,UBA Wortliste,4.666666666666667
+Umweltinnovation,UBA Wortliste,4.666666666666667
+Umweltmanagement,UBA Wortliste,4.666666666666667
+Umweltmanagementsystem,Word2Vec,4.0
+Umwelt-Managementsystem,manuell ergänzt,4.0
+Umweltmedizin,UBA Wortliste,4.333333333333333
+Umweltministerium,manuell ergänzt,3.666666666666667
+Umweltmonitoring,UBA Wortliste,4.333333333333333
+Umweltpädagogik,UBA Wortliste,4.333333333333333
+Umweltplanung,UBA Wortliste,4.0
+Umweltpolitik,UBA Wortliste,4.666666666666667
+Umweltrisikoreduzierung,UBA Wortliste,4.666666666666667
+Umweltschädenreduzierung,UBA Wortliste,4.666666666666667
+Umweltschadensgesetz,manuell ergänzt,4.0
+Umweltschadensrecht,UBA Wortliste,4.0
+umweltschonend,UBA Wortliste,4.666666666666667
+Umweltschutz,UBA Wortliste,5.0
+Umweltschutzdienstleistungen,UBA Wortliste,5.0
+Umweltschützer,GermaNet,5.0
+Umweltschützerin,GermaNet,4.666666666666667
+Umweltschutzpolitik,GermaNet,4.666666666666667
+Umweltstandard,UBA Wortliste,4.666666666666667
+Umwelttechnik,UBA Wortliste,4.0
+Umwelttechnikdienstleistungen,UBA Wortliste,4.333333333333333
+Umwelttechnologie,Word2Vec,4.0
+Umweltverfahrenstechnik,UBA Wortliste,4.333333333333333
+Umweltverschmutzungsreduzierung,UBA Wortliste,4.666666666666667
+umweltverträglich,UBA Wortliste,5.0
+Umweltwissenschaft,UBA Wortliste,4.666666666666667
+Umweltwissenschaftler,Word2Vec,4.666666666666667
+Umwidmung,Word2Vec,3.0
+Unkrautbekämpfung,Word2Vec,1.333333333333333
+Unrat,GermaNet,1.0
+Unternehmensbürgerschaft,manuell ergänzt,3.0
+Unternehmensverantwortung,manuell ergänzt,3.666666666666667
+Unterwasser,GermaNet,2.0
+Upcycling,Word2Vec,4.0
+urban mining,UBA Wortliste,4.0
+Vakuumröhrenkollektor,UBA Wortliste,2.333333333333333
+Velo,GermaNet,3.333333333333333
+Ventilatoren,UBA Wortliste,1.0
+verbrauchsarme,Word2Vec,4.333333333333333
+Verbrennungsanlagen,Word2Vec,1.0
+Verbund Ökohöfe,UBA Wortliste,4.0
+Verbundmaterial,GermaNet,1.0
+Verbundwerkstoff,UBA Wortliste,1.0
+Verdunstungskälte,UBA Wortliste,1.666666666666667
+Verfahrenstechnik,Word2Vec,1.0
+Verflüssiger,GermaNet,1.0
+Vergärungsverfahren,UBA Wortliste,1.0
+Verkehrsflusssteuerung,UBA Wortliste,3.0
+Verkehrskonzept,Word2Vec,3.0
+Verkehrsleitsystem,UBA Wortliste,1.0
+Verkehrsrechner,Word2Vec,2.0
+verlustfreie Luftführung,UBA Wortliste,2.333333333333333
+Verpackungsabfall,GermaNet,1.666666666666667
+Verpackungsmüll,GermaNet,1.666666666666667
+Verpackungstechnik,UBA Wortliste,2.0
+Verpressung,Word2Vec,1.666666666666667
+Verschleißschutz,UBA Wortliste,3.333333333333333
+Versickerung,UBA Wortliste,1.0
+Versorgungssicherheit,UBA Wortliste,2.0
+Versorgungstechnik,Word2Vec,1.666666666666667
+Verteilerkästen,Word2Vec,1.0
+Verteilnetze,Word2Vec,1.0
+Vertragsnaturschutz,GermaNet,5.0
+Viehhaltung,GermaNet,1.0
+Virtualisierung,UBA Wortliste,2.333333333333333
+virtuelles Kraftwerk,manuell ergänzt,3.333333333333333
+Vogelschutz,UBA Wortliste,4.333333333333333
+Vogelwelt,GermaNet,3.333333333333333
+Volksgarten,GermaNet,2.333333333333333
+Volkspark,GermaNet,2.333333333333333
+Vorschaltgerät,Word2Vec,1.0
+Waldbewirtschaftung,Word2Vec,2.0
+Waldbrandbekämpfung,Word2Vec,2.0
+Waldgesellschaft,GermaNet,4.0
+Waldhackgut,UBA Wortliste,3.0
+Waldökosystem,GermaNet,4.0
+Waldpädagogik,Word2Vec,4.333333333333333
+Waldpark,GermaNet,2.666666666666667
+Waldpflanze,GermaNet,2.333333333333333
+Waldschutz,UBA Wortliste,4.333333333333333
+Wärmebedarf,Word2Vec,1.666666666666667
+Wärmebereitstellung,UBA Wortliste,2.0
+Wärmedämmstoff,GermaNet,2.333333333333333
+Wärmedämmung,UBA Wortliste,3.0
+Wärmedämmverbundsystem,GermaNet,3.0
+Wärmeerzeuger,Word2Vec,2.0
+wärmegedämmt,Word2Vec,3.0
+Wärmegewinnung,Word2Vec,2.0
+Wärmeisolation,UBA Wortliste,3.0
+Wärmeisolierung,Word2Vec,3.0
+Wärmekraftkoppelungsanlage,UBA Wortliste,3.0
+Wärmekraftmaschine,Word2Vec,2.333333333333333
+Wärmekraftwerk,manuell ergänzt,2.333333333333333
+Wärmenetze,UBA Wortliste,2.333333333333333
+Wärmepumpe,UBA Wortliste,2.333333333333333
+Wärmerückgewinnung,UBA Wortliste,3.0
+Wärmespeicherung,Word2Vec,2.666666666666667
+Wärmestrahlung,Word2Vec,1.333333333333333
+Wärmetausch,UBA Wortliste,2.666666666666667
+Wärmeverbrauch,Word2Vec,2.0
+Wärmeversorgung,Word2Vec,1.666666666666667
+Wärmeverteilung,Word2Vec,1.333333333333333
+Warmwasseraufbereitung,Word2Vec,1.0
+Warmwasserbereitung,Word2Vec,1.0
+wartungsarm,Word2Vec,2.0
+Wasseranalyse,UBA Wortliste,2.0
+Wasseraufbereitung,UBA Wortliste,2.333333333333333
+Wasseraufbereitungsanlagen,Word2Vec,2.333333333333333
+Wasserbau,UBA Wortliste,1.666666666666667
+Wasserenergie,GermaNet,4.0
+Wasserentnahme,Word2Vec,1.666666666666667
+Wasserförderung,UBA Wortliste,1.0
+wassergefährdend,UBA Wortliste,2.333333333333333
+Wassergewinnung,UBA Wortliste,2.666666666666667
+Wasserkraft,UBA Wortliste,4.0
+Wasserkraftnutzung,Word2Vec,4.0
+Wasserkraftwerk,manuell ergänzt,3.666666666666667
+Wasserkühlung,GermaNet,1.0
+Wasserleitungsnetz,Word2Vec,1.333333333333333
+Wasserleitungssystem,Word2Vec,1.333333333333333
+Wassermanagementsystem,UBA Wortliste,2.333333333333333
+Wassernutzung,UBA Wortliste,2.0
+Wasserreinhaltung,UBA Wortliste,4.0
+Wasserreinigung,Word2Vec,2.666666666666667
+Wasserressourcen,Word2Vec,3.0
+Wasserschutz,GermaNet,3.333333333333333
+Wasserspeicherung,UBA Wortliste,2.0
+Wasserstoffspeicherung,UBA Wortliste,3.666666666666667
+Wasserverbrauch,Word2Vec,3.0
+Wasserverteilung,UBA Wortliste,1.666666666666667
+Wasserwerk,Word2Vec,2.0
+Wasserwerkshandwerk,UBA Wortliste,1.0
+Wechselstrommotor,GermaNet,3.333333333333333
+Wegeleitsystem,Word2Vec,1.333333333333333
+Wegoptimierung,UBA Wortliste,2.666666666666667
+Weidehaltung,Word2Vec,2.666666666666667
+Weidewirtschaft,GermaNet,2.0
+Weinbau,GermaNet,1.0
+Weiternutzung,UBA Wortliste,4.0
+Weiterverwertung,Word2Vec,4.0
+Wellenkraft,UBA Wortliste,3.666666666666667
+werkstoffliche Verwertung,UBA Wortliste,3.0
+Wertstoffe,Word2Vec,1.333333333333333
+Wertstoffhof,UBA Wortliste,3.333333333333333
+Wertstoffzentrum,Word2Vec,3.333333333333333
+Wiederaufbereitung,GermaNet,3.333333333333333
+Wiedervernässung,Word2Vec,3.333333333333333
+wiederverwendet,Word2Vec,4.0
+Wiederverwendung,UBA Wortliste,4.0
+Wiederverwertung,UBA Wortliste,4.0
+Wiesenpflanze,GermaNet,2.333333333333333
+Wildpark,GermaNet,2.0
+Wildpflanze,GermaNet,2.666666666666667
+Windenergie,UBA Wortliste,4.0
+Windgenerator,UBA Wortliste,4.0
+Windkraft,UBA Wortliste,4.0
+Windkraftanlage,Word2Vec,4.0
+Windkraft-Anlagen,Word2Vec,4.0
+Windkraftnutzung,Word2Vec,4.0
+Windkraftwerk,Word2Vec,4.0
+Windpark,UBA Wortliste,4.0
+Windräder,Word2Vec,4.0
+Windstrom,UBA Wortliste,4.0
+Wirkungsgrad,Word2Vec,3.0
+Wirtschaftsdünger,Word2Vec,1.0
+Wirtspflanze,GermaNet,1.666666666666667
+Wood-Plastic Composite,manuell ergänzt,3.0
+Wood-Plastic-Composites,UBA Wortliste,3.0
+Wrack,GermaNet,1.0
+Wüstenpflanze,GermaNet,2.0
+Xerophyt,GermaNet,1.666666666666667
+Zähl-und Verbrauchsmessungssysteme,UBA Wortliste,2.0
+Zeigerpflanze,GermaNet,1.666666666666667
+Zeolithe,UBA Wortliste,3.333333333333333
+Zero Client,UBA Wortliste,2.0
+Zero Emission,manuell ergänzt,4.666666666666667
+Zero Emission Mobility,UBA Wortliste,4.666666666666667
+Zero Loss-Konzept,UBA Wortliste,5.0
+Zero Waste,manuell ergänzt,5.0
+Zoo,GermaNet,1.333333333333333
+zoologisch,GermaNet,1.0
+Zoologischer Garten,GermaNet,1.333333333333333
+Zukunftsstrategie,Word2Vec,2.666666666666667
+Zuluft,Word2Vec,1.666666666666667
+Zuluftanlage,UBA Wortliste,1.333333333333333
+Zwiebelgewächs,GermaNet,1.666666666666667
+Zwischenfrüchte,Word2Vec,2.333333333333333
+Zylinderabschaltung,UBA Wortliste,2.0
