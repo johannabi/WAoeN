@@ -14,4 +14,4 @@ Die WAoeN wurde entwickelt, um in Azubi-Stellenanzeigen Referenzen auf ökologis
 
 
 ## Literatur
-Bauer, Stefanie; Thobe, Ines; Wolter, Marc Ingo; Helmrich, Robert; Schandock, Manuel; Janser, Markus; Röttger, Christof; Liesen, Andrea; Mohaupt, Franziska (2021): Qualifikationen und Berufe für den Übergang in eine Green Economy. In: UBA, BMU (Hrsg.): Reihe Umwelt, Innovation, Beschäftigung XX/2021, Dessau-Roßlau, Berlin (im Erscheinen)
+Bauer, Stefanie; Thobe, Ines; Wolter, Marc Ingo; Helmrich, Robert; Schandock, Manuel; Janser, Markus; Röttger, Christof; Liesen, Andrea; Mohaupt, Franziska (2021): Qualifikationen und Berufe für den Übergang in eine Green Economy. In: UBA, BMU (Hrsg.): Reihe Umwelt, Innovation, Beschäftigung 06/2021, Dessau-Roßlau, Berlin: https://www.umweltbundesamt.de/publikationen/qualifikationen-berufe-fuer-den-uebergang-in-eine
